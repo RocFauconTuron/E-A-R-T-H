@@ -1,0 +1,21 @@
+{
+  "items": [
+
+    { "key": "start", "value": "Martin" },
+    { "key": "starttxt", "value": "holaaaaaaa" },
+
+    { "key": "1", "value": "dialog 1" },
+    { "key": "1txt", "value": "dialog 1 text" },
+
+    { "key": "1op1", "value": "dialog 1 option 1" },
+    { "key": "1op2", "value": "dialog 1 option 2" },
+    { "key": "1op3", "value": "dialog 1 option 3" },
+
+    { "key": "2", "value": "dialog 2" },
+    { "key": "2txt", "value": "dialog 2 text" },
+
+    { "key": "3", "value": "dialog 3" },
+    { "key": "3txt", "value": "dialog 3 text" }
+    
+  ]
+}
