@@ -17,10 +17,14 @@ public class ChangeGravityDynamic : MonoBehaviour
     bool isAnimating = false;
     Quaternion lastPlayerRotForAnim;
 
-    public void ChangeDynamic(Transform outsideCamPos, List<CubeGravityGround> gc)
+    public void ChangeDynamic(Transform outsideCamPos, List<CubeGravityGround> gc, List<GameObject> walls)
     {
         if (!isCameraFar && !isAnimating)
         {
+            foreach (var item in walls)
+            {
+                item.SetActive(false);
+            }
             camPosOutside = outsideCamPos;
             gravityPlayer.enabled = false;
             isAnimating = true;
@@ -34,6 +38,11 @@ public class ChangeGravityDynamic : MonoBehaviour
         }
         else if(isCameraFar && !isAnimating)
         {
+            foreach (var item in walls)
+            {
+                item.SetActive(true);
+            }
+            isAnimating = true;
             isCameraFar = false;
             camTransform.GetComponent<CameraMoveWhenFar>().enabled = false;
             gravityObj.EndEvent();

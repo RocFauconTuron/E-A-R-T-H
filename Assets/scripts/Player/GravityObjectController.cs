@@ -49,6 +49,7 @@ public class GravityObjectController: MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.F))
             {
+                Debug.Log("sdasdasdaas");
                 hasChangedGravity = true;
                 falseBools();
                 canChangeGravity = false;

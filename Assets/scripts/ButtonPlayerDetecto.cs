@@ -9,6 +9,7 @@ public class ButtonPlayerDetecto : MonoBehaviour
     bool canCheck = false;
     ChangeGravityDynamic changeGravity;
     [SerializeField] List<CubeGravityGround> gravityCubesList;
+    [SerializeField] List<GameObject> walls;
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player"))
@@ -32,7 +33,7 @@ public class ButtonPlayerDetecto : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(1) && canCheck)
         {
-            changeGravity.ChangeDynamic(camPos,gravityCubesList);
+            changeGravity.ChangeDynamic(camPos,gravityCubesList, walls);
         }
     }
 }
