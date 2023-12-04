@@ -27,7 +27,7 @@ public class TpObj : MonoBehaviour
             }
             else
             {
-
+                FindObjectOfType<GravityObjectController>().canChangeGravity = true;
             }
 
         }

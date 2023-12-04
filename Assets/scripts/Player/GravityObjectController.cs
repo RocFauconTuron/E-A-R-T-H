@@ -41,7 +41,14 @@ public class GravityObjectController: MonoBehaviour
         forwardGravity = false;
         backwardsGravity = false;
     }
-    // Update is called once per frame
+    void SetVelocityZero()
+    {
+        for (int i = 0; i < gravityCubes.Count; i++)
+        {
+            gravityCubes[i].GetComponent<Rigidbody>().velocity = Vector3.zero;
+        }
+    }
+        // Update is called once per frame
     void Update()
     {
         hasChangedGravity = false;
@@ -49,15 +56,17 @@ public class GravityObjectController: MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.F))
             {
-                Debug.Log("sdasdasdaas");
+                SetVelocityZero();
                 hasChangedGravity = true;
                 falseBools();
                 canChangeGravity = false;
                 downGravity = true;
+                
                 Physics.gravity = new Vector3(0, gravityForce, 0);                
             }
             else if (Input.GetKeyDown(KeyCode.R))
             {
+                SetVelocityZero();
                 hasChangedGravity = true;
                 falseBools();
                 canChangeGravity = false;
@@ -66,6 +75,7 @@ public class GravityObjectController: MonoBehaviour
             }
             else if (Input.GetKeyDown(KeyCode.Q))
             {
+                SetVelocityZero();
                 hasChangedGravity = true;
                 falseBools();
                 canChangeGravity = false;
@@ -90,7 +100,7 @@ public class GravityObjectController: MonoBehaviour
             }
             else if (Input.GetKeyDown(KeyCode.E))
             {
-                Debug.Log("e");
+                SetVelocityZero();
                 hasChangedGravity = true;
                 falseBools();
                 canChangeGravity = false;
@@ -114,6 +124,7 @@ public class GravityObjectController: MonoBehaviour
             }
             else if (Input.GetKeyDown(KeyCode.S))
             {
+                SetVelocityZero();
                 hasChangedGravity = true;
                 falseBools();
                 canChangeGravity = false;
@@ -137,6 +148,7 @@ public class GravityObjectController: MonoBehaviour
             }
             else if (Input.GetKeyDown(KeyCode.W))
             {
+                SetVelocityZero();
                 hasChangedGravity = true;
                 falseBools();
                 canChangeGravity = false;
