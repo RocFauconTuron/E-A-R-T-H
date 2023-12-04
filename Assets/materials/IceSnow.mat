@@ -59,7 +59,7 @@ Material:
     - _intensitySnow: 0.97
     - _mutiply: -1.14
     - _mutiplyScaleIce: 0.08
-    - _offset: -0.00006
+    - _offset: -0.00018
     - _samples: 100
     - _saturation: 1.497
     - _scale: 24.5

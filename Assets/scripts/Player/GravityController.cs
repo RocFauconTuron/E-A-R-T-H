@@ -47,6 +47,7 @@ public class GravityController : MonoBehaviour
         {
             if (hit.transform.CompareTag("up") && !upGravity)
             {
+                playerMove.canControlSpeed = true;
                 hasChangedGravity = true;
                 falseBools();
                 gravityForceVector = new Vector3(0, gravityForce, 0);
@@ -57,6 +58,7 @@ public class GravityController : MonoBehaviour
             }
             else if (hit.transform.CompareTag("down") && !downGravity)
             {
+                playerMove.canControlSpeed = true;
                 hasChangedGravity = true;
                 falseBools();
                 gravityForceVector = new Vector3(0, -gravityForce, 0);
@@ -67,6 +69,7 @@ public class GravityController : MonoBehaviour
             }
             else if (hit.transform.CompareTag("right") && !rightGravity)
             {
+                playerMove.canControlSpeed = true;
                 hasChangedGravity = true;
                 falseBools();
                 rightGravity = true;
@@ -77,6 +80,7 @@ public class GravityController : MonoBehaviour
             }
             else if (hit.transform.CompareTag("left") && !leftGravity)
             {
+                playerMove.canControlSpeed = true;
                 hasChangedGravity = true;
                 falseBools();
                 leftGravity = true;
@@ -87,6 +91,7 @@ public class GravityController : MonoBehaviour
             }
             else if (hit.transform.CompareTag("forward") && !forwardGravity)
             {
+                playerMove.canControlSpeed = true;
                 hasChangedGravity = true;
                 falseBools();
                 forwardGravity = true;
@@ -97,6 +102,7 @@ public class GravityController : MonoBehaviour
             }
             else if (hit.transform.CompareTag("backward") && !backwardsGravity)
             {
+                playerMove.canControlSpeed = true;
                 hasChangedGravity = true;
                 falseBools();
                 backwardsGravity = true;

@@ -24,9 +24,18 @@ public class CameraMove : MonoBehaviour
         float mouseX = Input.GetAxisRaw("Mouse X") * Time.deltaTime * sens;
         float mouseY = Input.GetAxisRaw("Mouse Y") * Time.deltaTime * sens;
 
-        yRot += mouseX;
-        xRot -= mouseY;
-        xRot = Mathf.Clamp(xRot, -85f, 85f);
+        yRot = transform.localEulerAngles.y + mouseX;
+        xRot = transform.localEulerAngles.x - mouseY;
+
+        if (xRot < 275 && xRot > 200)
+        {
+            xRot = 275;
+        }
+        else if (xRot < 100 && xRot > 85)
+        {
+            xRot = 85;
+        }
+
 
         //transform.localRotation = Quaternion.Euler(Mathf.SmoothDampAngle(transform.localRotation.x, xRot, ref xSpeed, smoothTime), Mathf.SmoothDampAngle(transform.localRotation.y, yRot, ref yspeed, smoothTime), 0);
         transform.localRotation = Quaternion.Euler(xRot, yRot, 0);

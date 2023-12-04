@@ -35,6 +35,8 @@ public class PlayerMovementTutorial : MonoBehaviour
 
     Rigidbody rb;
     [SerializeField] GravityController gravityController;
+    [SerializeField] float UpDownSpeed;
+    public bool canControlSpeed = true;
 
     private void Start()
     {
@@ -52,6 +54,10 @@ public class PlayerMovementTutorial : MonoBehaviour
         if (gravityController.canCheckIfGround && grounded)
         {
             gravityController.canChangeGravity = true;
+        }
+        if (grounded)
+        {
+            canControlSpeed = true;
         }
 
         MyInput();
@@ -89,26 +95,30 @@ public class PlayerMovementTutorial : MonoBehaviour
     {
         // calculate movement direction
         moveDirection = orientation.forward * verticalInput + orientation.right * horizontalInput;
-
+        //Debug.Log(moveDirection);
         // on ground
-        if(grounded)
+        if (grounded)
+        {
             rb.AddForce(moveDirection.normalized * moveSpeed * 10f, ForceMode.Force);
-
+        }
+           
         // in air
-        else if(!grounded)
+        else if (!grounded)
+        {
             rb.AddForce(moveDirection.normalized * moveSpeed * 10f * airMultiplier, ForceMode.Force);
+        }
+            
     }
 
     private void SpeedControl()
     {
-        Vector3 flatVel = new Vector3(rb.velocity.x, rb.velocity.y, rb.velocity.z);     
-
-        // limit velocity if needed
-        if (flatVel.magnitude > moveSpeed)
+        Vector3 flatVel = new Vector3(rb.velocity.x, rb.velocity.y, rb.velocity.z);
+        //limit velocity if needed
+        if (flatVel.magnitude > moveSpeed && canControlSpeed)
         {
             Vector3 limitedVel = flatVel.normalized * moveSpeed;
 
-            if(Physics.gravity == new Vector3(-gravityController.gravityForce, 0,0) || Physics.gravity == new Vector3(gravityController.gravityForce, 0, 0))
+            if (Physics.gravity == new Vector3(-gravityController.gravityForce, 0, 0) || Physics.gravity == new Vector3(gravityController.gravityForce, 0, 0))
             {
                 rb.velocity = new Vector3(rb.velocity.x, limitedVel.y, limitedVel.z);
             }
