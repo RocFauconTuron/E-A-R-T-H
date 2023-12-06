@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 8179234641010314265}
   - component: {fileID: 8179234641010314270}
   - component: {fileID: 1348383337}
+  - component: {fileID: 2863991042977927050}
   m_Layer: 0
   m_Name: GravityCube
   m_TagString: Cube
@@ -131,3 +132,16 @@ MonoBehaviour:
   layerGround:
     serializedVersion: 2
     m_Bits: 8
+--- !u!114 &2863991042977927050
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8179234641010314271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01c728e2d31e9c84897b3368192cb73e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  diePos: {x: 0, y: 0, z: 0}

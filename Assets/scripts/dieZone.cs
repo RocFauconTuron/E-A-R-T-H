@@ -7,7 +7,7 @@ public class dieZone : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Player") || other.CompareTag("Cube"))
         {
             other.GetComponent<PlayerDie>().Die();
         }
