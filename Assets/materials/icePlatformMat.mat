@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: OutsideLook
-  m_Shader: {fileID: -6465566751694194690, guid: ce75519829d63db4c9c915af1adf7636, type: 3}
+  m_Name: icePlatformMat
+  m_Shader: {fileID: -6465566751694194690, guid: d36a58a02c6adeb45b7e9b3e67d9d818, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -23,12 +23,16 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _SampleTexture2D_02bb1c294be34dc8a7f6c0a7226e263f_Texture_1:
-        m_Texture: {fileID: 2800000, guid: 12f720efaf4a88d49829de9e154ffd27, type: 3}
+    - _NormalFromTexture_3d4e6581bf3d47b88c06c3307d3c27f1_Texture_0:
+        m_Texture: {fileID: 2800000, guid: 9ecd547872243ba42b6e6a47bc2eb2b5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_b5b0fc43bd284a658d9f8cfc69bdf7d5_Texture_1:
-        m_Texture: {fileID: 2800000, guid: e04e8cf783f233d4caa82bddd06c7e40, type: 3}
+    - _Texture2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _iceNormal:
+        m_Texture: {fileID: 2800000, guid: 9ecd547872243ba42b6e6a47bc2eb2b5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -47,10 +51,13 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _frenelStrenght: 0.0001
+    - _refractStrenght: -0.39
     m_Colors:
-    - _Color: {r: 0, g: 0.5, b: 0.44509804, a: 1}
+    - _Color: {r: 0, g: 3.6314206, b: 6.4222345, a: 1}
+    - _iceTiling: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &2117089290701716389
+--- !u!114 &8786049743575958169
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

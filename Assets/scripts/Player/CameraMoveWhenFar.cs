@@ -37,7 +37,7 @@ public class CameraMoveWhenFar : MonoBehaviour
             rotAngle = Mathf.Clamp(rotAngle, -35, 45f);
 
             //transform.localRotation = Quaternion.Euler(Mathf.SmoothDampAngle(transform.localRotation.x, xRot, ref xSpeed, smoothTime), Mathf.SmoothDampAngle(transform.localRotation.y, yRot, ref yspeed, smoothTime), 0);
-            outsideCam.localRotation = Quaternion.Euler(0, 0, rotAngle);
+            outsideCam.localRotation = Quaternion.Euler(outsideCam.localEulerAngles.x, outsideCam.localEulerAngles.y, rotAngle);
         }
         
     }

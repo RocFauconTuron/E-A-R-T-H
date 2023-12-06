@@ -38,17 +38,13 @@ public class ChangeGravityDynamic : MonoBehaviour
         }
         else if(isCameraFar && !isAnimating)
         {
-            foreach (var item in walls)
-            {
-                item.SetActive(true);
-            }
             isAnimating = true;
             isCameraFar = false;
             camTransform.GetComponent<CameraMoveWhenFar>().enabled = false;
             gravityObj.EndEvent();
             gravityObj.enabled = false;
             camTransform.parent = null;
-            StartCoroutine(CameraAnimation2());
+            StartCoroutine(CameraAnimation2(walls));
         }
     }
     IEnumerator CameraAnimation1(List<CubeGravityGround> gc)
@@ -80,7 +76,7 @@ public class ChangeGravityDynamic : MonoBehaviour
         camTransform.localEulerAngles = Vector3.zero;
         isAnimating = false;
     }
-    IEnumerator CameraAnimation2()
+    IEnumerator CameraAnimation2(List<GameObject> walls)
     {
         Quaternion startRot = camPosOutside.rotation;
         Vector3 startPos = camTransform.position;
@@ -97,6 +93,10 @@ public class ChangeGravityDynamic : MonoBehaviour
         gravityPlayer.enabled = true;
         Physics.gravity = lastGravity;
 
+        foreach (var item in walls)
+        {
+            item.SetActive(true);
+        }
 
         camTransform.GetComponent<CameraMove>().enabled = true;
         GetComponent<PlayerMovementTutorial>().enabled = true;
@@ -105,6 +105,7 @@ public class ChangeGravityDynamic : MonoBehaviour
         camTransform.parent = camPosPlayer;
         camTransform.localPosition = Vector3.zero;
         camTransform.localEulerAngles = Vector3.zero;
+
         isAnimating = false;
     }
 }

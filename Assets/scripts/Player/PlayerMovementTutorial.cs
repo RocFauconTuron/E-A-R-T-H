@@ -9,6 +9,7 @@ public class PlayerMovementTutorial : MonoBehaviour
     public float moveSpeed;
 
     public float groundDrag;
+    public float airDrag;
 
     public float jumpForce;
     public float jumpCooldown;
@@ -67,7 +68,7 @@ public class PlayerMovementTutorial : MonoBehaviour
         if (grounded)
             rb.drag = groundDrag;
         else
-            rb.drag = 0;
+            rb.drag = airDrag;
     }
 
     private void FixedUpdate()
@@ -94,20 +95,20 @@ public class PlayerMovementTutorial : MonoBehaviour
     private void MovePlayer()
     {
         // calculate movement direction
+        Debug.Log(verticalInput);
         moveDirection = orientation.forward * verticalInput + orientation.right * horizontalInput;
         //Debug.Log(moveDirection);
         // on ground
         if (grounded)
         {
             rb.AddForce(moveDirection.normalized * moveSpeed * 10f, ForceMode.Force);
-        }
-           
+        }         
         // in air
         else if (!grounded)
         {
             rb.AddForce(moveDirection.normalized * moveSpeed * 10f * airMultiplier, ForceMode.Force);
         }
-            
+
     }
 
     private void SpeedControl()

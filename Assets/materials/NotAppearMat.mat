@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: OutsideLook
+  m_Name: NotAppearMat
   m_Shader: {fileID: -6465566751694194690, guid: ce75519829d63db4c9c915af1adf7636, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -48,7 +48,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 0, g: 0.5, b: 0.44509804, a: 1}
+    - _Color: {r: 0, g: 1, b: 0.88857555, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &2117089290701716389
 MonoBehaviour:
