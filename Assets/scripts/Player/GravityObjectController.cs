@@ -17,6 +17,7 @@ public class GravityObjectController: MonoBehaviour
     public Transform camTransform;
     public void StartEvent(List<CubeGravityGround> gc)
     {
+        Physics.gravity = new Vector3(0, gravityForce, 0);
         gravityCubes = gc;
         for (int i = 0; i < gravityCubes.Count; i++)
         {

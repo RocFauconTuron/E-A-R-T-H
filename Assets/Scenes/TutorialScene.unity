@@ -1630,7 +1630,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-184956
+  m_Name: pb_Mesh29072
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
@@ -2190,6 +2190,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 8
   groundDrag: 6
+  airDrag: 0
   jumpForce: 10
   jumpCooldown: 0.25
   airMultiplier: 0.4
@@ -2203,6 +2204,8 @@ MonoBehaviour:
   grounded: 0
   orientation: {fileID: 987510650}
   gravityController: {fileID: 384912735}
+  UpDownSpeed: 0
+  canControlSpeed: 1
 --- !u!114 &384912734
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61133,8 +61136,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5251707864630911477}
   m_LocalRotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -0, y: -0.0089, z: 0}
+  m_LocalScale: {x: 1, y: 0.99109316, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6269635625646547086}
