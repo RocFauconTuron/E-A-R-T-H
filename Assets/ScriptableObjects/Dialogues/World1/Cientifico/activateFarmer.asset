@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d901d8ccb452c0840959dd36256d0480, type: 3}
+  m_Name: activateFarmer
+  m_EditorClassIdentifier: 
+  background: {fileID: 21300000, guid: 0aa0caa30f46b594cab70a90152d48d5, type: 3}
+  objectNames:
+  - ButtonBeatrice
+  objects:
+  - {fileID: 2767790162046393031, guid: 68bf9d439bcb49643bd49c9198cf79bb, type: 3}
+  nextDialogNode: {fileID: 0}

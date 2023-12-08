@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c813a4fce0efa4d45b7155fd84a33530, type: 3}
+  m_Name: CP1-6OP
+  m_EditorClassIdentifier: 
+  background: {fileID: 21300000, guid: 0aa0caa30f46b594cab70a90152d48d5, type: 3}
+  options:
+  - keyText: CP1-6.1
+    next: {fileID: 11400000, guid: 11e973867e8bee6478b6baa329612eae, type: 2}
+  - keyText: CP1-6.2
+    next: {fileID: 11400000, guid: 0844044e9c344d140bf9bbf552a314e3, type: 2}
+  - keyText: CP1-6.3
+    next: {fileID: 11400000, guid: 247b0bd7bdee8a74298d221bfcf57fc6, type: 2}

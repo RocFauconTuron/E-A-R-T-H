@@ -5,6 +5,7 @@ using UnityEngine;
 public class AppearPlatform : MonoBehaviour
 {
     GravityController gc;
+    GravityObjectController goc;
     [SerializeField] Material iceMat;
     [SerializeField] Material invisibleMat;
     BoxCollider boxCollider;
@@ -15,6 +16,7 @@ public class AppearPlatform : MonoBehaviour
     void Start()
     {
         gc = FindObjectOfType<GravityController>();
+        goc = FindObjectOfType<GravityObjectController>();
         boxCollider = GetComponent<BoxCollider>();
         meshRenderer = GetComponent<MeshRenderer>();
     }
@@ -22,7 +24,7 @@ public class AppearPlatform : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (gc.hasChangedGravity)
+        if (gc.hasChangedGravity || goc.hasChangedGravity)
         {
             StopAllCoroutines();
             StartCoroutine(ChangeMat());

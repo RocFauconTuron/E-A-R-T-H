@@ -319,6 +319,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 8
   groundDrag: 6
+  airDrag: 0.4
   jumpForce: 10
   jumpCooldown: 0.25
   airMultiplier: 0.4
@@ -332,6 +333,8 @@ MonoBehaviour:
   grounded: 0
   orientation: {fileID: 7646570092772113257}
   gravityController: {fileID: 7646570092437946700}
+  UpDownSpeed: 0
+  canControlSpeed: 1
 --- !u!114 &7646570092437946701
 MonoBehaviour:
   m_ObjectHideFlags: 0

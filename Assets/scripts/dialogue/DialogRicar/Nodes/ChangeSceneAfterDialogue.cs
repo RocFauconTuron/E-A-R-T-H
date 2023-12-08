@@ -15,5 +15,4 @@ public class ChangeSceneAfterDialogue : TriggerNode, iHaveNextNode
     [SerializeField, Header("Next Node: (null) => EndNode")]
     private BaseNode nextDialogNode;
     public BaseNode nextNode { get => nextDialogNode; set { value = nextDialogNode; } }
-
 }

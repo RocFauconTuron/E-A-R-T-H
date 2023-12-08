@@ -45,5 +45,6 @@ public class CubeGravityGround : MonoBehaviour
         {
             gravityControllerObj.canChangeGravity = true;
         }
+        Debug.Log(gravityControllerObj.canChangeGravity);
     }
 }

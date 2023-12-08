@@ -1,21 +1,69 @@
 {
   "items": [
 
-    { "key": "start", "value": "Martin" },
-    { "key": "starttxt", "value": "holaaaaaaa" },
+    { "key": "CP1-1", "value": "?????" },
+    {"key": "CP1-1TXT","value": "Espera... Un momento... Eres tu! Te reconozco! No me lo puedo creer, pense que te habia perdido."},
 
-    { "key": "1", "value": "dialog 1" },
-    { "key": "1txt", "value": "dialog 1 text" },
+    {"key": "CP1-2", "value": "Protagonista"},
+    {"key": "CP1-2TXT", "value": "Eh... Como que me reconoces? Se puede saber quien eres?"},
 
-    { "key": "1op1", "value": "dialog 1 option 1" },
-    { "key": "1op2", "value": "dialog 1 option 2" },
-    { "key": "1op3", "value": "dialog 1 option 3" },
+    { "key": "CP1-3", "value": "?????" },
+    {"key": "CP1-3TXT","value": "Ay... Claro... Perdona... Es normal que no me reconozcas..."},
+
+    {"key": "CP1-4", "value": "Cientifico Johan"},
+    {"key": "CP1-4TXT", "value": "Se que sonara dificil de creer pero soy Johan, tu creador... "},
+
+    { "key": "CP1-5", "value": "Cientifico Johan" },
+    { "key": "CP1-5TXT", "value": "Despues de que la Fundacion SEP atacara las instalaciones de la U.G.T donde trabajaba tuve que huir y no pude llevarte conmigo. Por eso no esperaba encontrarte." },
+
+    { "key": "CP1-6.1", "value": "Tu eres el cientifico Marco entonces, como me habia dicho AURA" },
+    { "key": "CP1-6.2", "value": "Asi que me abandonaste?" },
+    { "key": "CP1-6.3", "value": "Alguien ataco el laboratorio donde me creaste?" },
+
+    { "key": "CP1-6.1.1", "value": "Cientifico Johan" },
+    { "key": "CP1-6.1.1TXT", "value": "Exacto! Asi que ya has conocido a AURA... Bien bien" },
+    { "key": "CP1-6.1.2", "value": "Cientifico Johan" },
+    { "key": "CP1-6.1.2TXT", "value": "Espero que te haya parecido agradable, estareis juntos por mucho tiempo" },
+
+    { "key": "CP1-6.2.1", "value": "Cientifico Johan" },
+    { "key": "CP1-6.2.1TXT", "value": "... Asi es... No pude ponerte en marcha antes de que atacaran y hui..." },
+    { "key": "CP1-6.2.2", "value": "Cientifico Johan" },
+    { "key": "CP1-6.2.2TXT", "value": "Hice algo despreciable... y nunca me perdonare por ello... tu eres la unica salvacion que tenemos y te abandone por miedo." },
+    { "key": "CP1-6.2.3", "value": "Cientifico Johan" },
+    { "key": "CP1-6.2.3TXT", "value": "Parece ser que de algun modo el programa de emergencia te dio la vida antes de que cedieran las instalaciones... Aun asi, te pido perdon..." },
+
+    { "key": "CP1-6.3.1", "value": "Cientifico Johan" },
+    { "key": "CP1-6.3.1TXT", "value": "... Me temo que si... Formas parte de algo grande hijo... de un proyecto capaz de salvarnos a todos" },
+
+    { "key": "CP1-7", "value": "Cientifico Johan" },
+    { "key": "CP1-7TXT", "value": "Tengo que pedirte algo dificil. Algo que solo puedes hacer tu." },
+
+    { "key": "CP1-8", "value": "Cientifico Johan" },
+    { "key": "CP1-8TXT", "value": "Necesito tu ayuda. Seguramente ya te habras dado cuenta pero tienes habilidades que se escapan a la comprension humana. Y con esos poderes podemos cambiarlo todo." },
+
+    { "key": "CP1-9", "value": "Cientifico Johan" },
+    { "key": "CP1-9TXT", "value": "Yo formo parte de la U.G.T, una organización que se enfrenta a la Fundación SEP, unos tiranos que han destruido el mundo." },
+
+    { "key": "CP1-10", "value": "Cientifico Johan" },
+    { "key": "CP1-10TXT", "value": "Esta fundacion ha alterado la gravedad del planeta y ha causado estragos por todas partes. Ademas, no planean detenerse." },
+
+    { "key": "CP1-11", "value": "Protagonista" },
+    { "key": "CP1-11TXT", "value": "Y que pretendes que haga yo?" },
+
+    { "key": "CP1-12", "value": "Cientifico Johan" },
+    { "key": "CP1-12TXT", "value": "Te cree con estas habilidades para arreglar el desastre que han hecho en la Tierra..." },
+
+    { "key": "CP1-13", "value": "Cientifico Johan" },
+    { "key": "CP1-13TXT", "value": "Espero que puedas ayudarnos... por favor... ahora tengo que contactar a Amelia, la lider de la U.G.T. Ella sabra que hacer ahora." },
+
+    { "key": "CP1-14", "value": "Protagonista" },
+    { "key": "CP1-14TXT", "value": "Cuanto tardaras? " },
+
+    { "key": "CP1-15", "value": "Cientifico Johan" },
+    { "key": "CP1-15TXT", "value": "Ten paciencia... Ve a ver a la gente del pueblo mientras esperas. Son buena gente... Me han tratado bien... Una pena que no pueda ayudarles mas..." },
 
     { "key": "2", "value": "dialog 2" },
-    { "key": "2txt", "value": "dialog 2 text" },
-
-    { "key": "3", "value": "dialog 3" },
-    { "key": "3txt", "value": "dialog 3 text" }
+    { "key": "2txt", "value": "dialog 2 text" }
     
   ]
 }
