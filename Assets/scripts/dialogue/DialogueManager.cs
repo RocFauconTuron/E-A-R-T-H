@@ -55,23 +55,23 @@ public class DialogueManager : MonoBehaviour
             dialogueText.text = dialogue.dialogues[i].speakers + ": " + dialogue.dialogues[i].sentences;
           
             yield return new WaitForSeconds(dialogue.dialogues[i].time);
-            if (dialogue.dialogues[i].textType == TextType.desicion)
-            {
-                button1.gameObject.SetActive(true);
-                button2.gameObject.SetActive(true);
+            //if (dialogue.dialogues[i].textType == TextType.desicion)
+            //{
+            //    button1.gameObject.SetActive(true);
+            //    button2.gameObject.SetActive(true);
 
-                Cursor.lockState = CursorLockMode.None;
-                Cursor.visible = true;
-                Time.timeScale = 0;
+            //    Cursor.lockState = CursorLockMode.None;
+            //    Cursor.visible = true;
+            //    Time.timeScale = 0;
 
-                startNumSubDialogue1 = dialogue.dialogues[i].subDialogueStart1;
-                startNumSubDialogue2 = dialogue.dialogues[i].subDialogueStart2;
-                endNumSubDialogue1 = dialogue.dialogues[i].subDialogueEnd1;
-                endNumSubDialogue2 = dialogue.dialogues[i].subDialogueEnd2;
+            //    startNumSubDialogue1 = dialogue.dialogues[i].subDialogueStart1;
+            //    startNumSubDialogue2 = dialogue.dialogues[i].subDialogueStart2;
+            //    endNumSubDialogue1 = dialogue.dialogues[i].subDialogueEnd1;
+            //    endNumSubDialogue2 = dialogue.dialogues[i].subDialogueEnd2;
 
-                yield return new WaitUntil(() => canStartDialogue);
-                canStartDialogue = false;            
-            }
+            //    yield return new WaitUntil(() => canStartDialogue);
+            //    canStartDialogue = false;            
+            //}
             animator.SetBool("IsOpen", false);
             yield return new WaitForSeconds(.8f);
         }

@@ -62,6 +62,90 @@
     { "key": "CP1-15", "value": "Cientifico Johan" },
     { "key": "CP1-15TXT", "value": "Ten paciencia... Ve a ver a la gente del pueblo mientras esperas. Son buena gente... Me han tratado bien... Una pena que no pueda ayudarles mas..." },
 
+
+
+
+    { "key": "BP1-1", "value": "Beatrice" },
+    {"key": "BP1-1TXT","value": "Buenos dIas! Que tenemos por aquI? Un visitante?"},
+
+    { "key": "BP1-2.1", "value": "Algo asi..."},
+    { "key": "BP1-2.2", "value": "Se podria decir que soy el hijo de Johan" },
+
+    { "key": "BP1-2.1.1", "value": "Beatrice" },
+    {"key": "BP1-2.1.1TXT","value": "No seas timido. Todo el mundo es bienvenido. Incluso los viajeros mas extravagantes"},
+
+    { "key": "BP1-2.2.1", "value": "Beatrice" },
+    {"key": "BP1-2.2.1TXT","value": "Claro. De donde iba a salir un robot parlante si no era de su laboratorio."},
+
+    { "key": "BP1-2.2.2", "value": "Beatrice" },
+    {"key": "BP1-2.2.2TXT","value": "Siempre me deja maravillada con los que es capaz de hacer. "},
+
+    { "key": "BP1-2.2.3", "value": "Beatrice" },
+    {"key": "BP1-2.2.3TXT","value": "No habla mucho pero nunca falta para ayudarme a arreglar las maquinas del campo. Estoy muy agradecida con el."},
+
+    {"key": "BP1-3", "value": "Beatrice"},
+    {"key": "BP1-3TXT", "value": "Que te parece si te ofrezco un pequeno trabajito?"},
+
+    {"key": "BP1-4", "value": "Beatrice"},
+    {"key": "BP1-4TXT", "value": "Un terremoto causado hace unos pocos dias ha dejado una sala abandonada cercana patas arriba. Y tenia pensado usarla como almacen para mis cultivos."},
+
+    {"key": "BP1-5", "value": "Beatrice"},
+    {"key": "BP1-5TXT", "value": "Si me ayudas a deshacerme de toda la chatarra te puedes quedar con lo que encuentres de valor. Ten en cuenta que es un edificio de antes de la Gran Fragmentacion, quien sabe lo que te puedes encontrar."},
+
+    {"key": "BP1-6", "value": "Protagonista"},
+    {"key": "BP1-6TXT", "value": "Que quieres decir antes de la Gran Fragmentacion?"},
+
+    {"key": "BP1-7", "value": "Beatrice"},
+    {"key": "BP1-7TXT", "value": "Ya sabes, el dia del colapso. Cuando la Fundación SEP rompió la Tierra en pedacitos."},
+
+    {"key": "BP1-8", "value": "Beatrice"},
+    {"key": "BP1-8TXT", "value": "Entonces que me dices? Me echaras una mano?"},
+
+    { "key": "BP1-9.1", "value": "Lo siento, no tengo tiempo para eso."},
+    { "key": "BP1-9.2", "value": "Claro que si." },
+
+
+
+    { "key": "BP2-1", "value": "Beatrice"},
+    { "key": "BP2-1TXT", "value": "Increible! Ha sido impresionante. Muchas gracias." },
+
+    { "key": "BP2-2", "value": "Beatrice"},
+    { "key": "BP2-2TXT", "value": "Espero que hayas encontrado algo de valor." },
+
+    { "key": "BP2-3.1", "value": "La verdad es que no." },
+    { "key": "BP2-3.2", "value": "Sorprendentemente si"},
+
+    { "key": "BP2-3.1.1", "value": "Beatrice"},
+    { "key": "BP2-3.1.1TXT", "value": "Vaya... Siento escuchar eso. Tendras que conformarte con mi agradecimiento entonces. Gracias." },
+
+    { "key": "BP2-3.2.1", "value": "Beatrice"},
+    { "key": "BP2-3.2.1TXT", "value": "Me alegro. Bueno, yo me tengo que poner a trabajar otra vez. Espero volver a vernos." },
+
+
+
+    { "key": "BP3-1", "value": "Beatrice"},
+    { "key": "BP3-1TXT", "value": "Tu de nuevo? Te has vuelto a plantear mi oferta?" },
+
+    { "key": "BP3-2.1", "value": "No..." },
+    { "key": "BP3-2.2", "value": "Me lo he pensado mejor. Te ayudare."},
+
+
+    { "key": "BP3-2.1.1", "value": "Beatrice"},
+    { "key": "BP3-2.1.1TXT", "value": "No la pueden culpar a una por intentarlo. *Se rie*" },
+
+    { "key": "BP3-2.2.1", "value": "Beatrice"},
+    { "key": "BP3-2.2.1TXT", "value": "Perfecto! Muchas gracias." },
+
+
+
+    { "key": "BP4-1", "value": "Beatrice"},
+    { "key": "BP4-1TXT", "value": "Mucha suerte con tus viajes-" },
+
+    { "key": "BP4-2", "value": "Beatrice" },
+    { "key": "BP4-2TXT", "value": "Cuida bien de Johan. Es algo timido pero es un cielo."},
+
+
+
     { "key": "2", "value": "dialog 2" },
     { "key": "2txt", "value": "dialog 2 text" }
     
