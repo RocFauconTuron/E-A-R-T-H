@@ -284,6 +284,269 @@
     { "key": "DP4-3TXT", "value": "Veamos, si que hay algo en lo que me puedes ayudar. Necesito que consigas una bobina estabilizadora. Ve a las ruinas de un antiguo edificio cerca de aqui y la encontraras." },
 
 
+
+
+    { "key": "AP1-1", "value": "Amelia"},
+    { "key": "AP1-1TXT", "value": "Por fin has llegado. A que se debe tu demora? No importa. No tenemos tiempo que perder." },
+
+    { "key": "AP1-2", "value": "Amelia"},
+    { "key": "AP1-2TXT", "value": "Tengo entendido que eres GRAVIX. Un placer conocerte por fin. Johan hablaba sobre lo crucial que serias para nuestra victoria." },
+
+    { "key": "AP1-3", "value": "Amelia"},
+    { "key": "AP1-3TXT", "value": "Has traido el artefacto robotico de las instalaciones de la Fundación SEP?" },
+
+    { "key": "AP1-4", "value": "GRAVIX"},
+    { "key": "AP1-4TXT", "value": "Un placer trabajar con usted. Claro, he encontrado esto." },
+
+    { "key": "AP1-5", "value": "Amelia"},
+    { "key": "AP1-5TXT", "value": "Perfecto. Es justo lo que necesitabamos." },
+
+    { "key": "AP1-6.1", "value": "Que es esa pieza? Para que la necesitabas."},
+    { "key": "AP1-6.2", "value": "Entonces. En que puedo ayudar ahora?" },
+
+    { "key": "AP1-6.1.1", "value": "Amelia"},
+    { "key": "AP1-6.1.1TXT", "value": "Te gusta hacer preguntas? Todo a su debido tiempo." },
+
+    { "key": "AP1-6.1.2", "value": "Amelia"},
+    { "key": "AP1-6.1.2TXT", "value": "Aunque me parece justo contraErtelo. Una buena recompensa para un buen trabajo. " },
+
+    { "key": "AP1-6.1.3", "value": "Amelia"},
+    { "key": "AP1-6.1.3TXT", "value": "Con este artefacto robOtico mejoraremos tus capacidades de control de gravedad temporalmente." },
+
+    { "key": "AP1-6.1.4.1", "value": "Es eso posible? Puedo tener aun mas control?"},
+    { "key": "AP1-6.1.4.2", "value": "De verdad me mejorareis con piezas de la Fundacion SEP?" },
+
+    { "key": "AP1-6.1.4.1.1", "value": "Amelia"},
+    { "key": "AP1-6.1.4.1.1TXT", "value": "Claro robot. Fuiste creado para rejuntar todas las piezas fragmentadas del planeta." },
+
+    { "key": "AP1-6.1.4.1.2", "value": "GRAVIX"},
+    { "key": "AP1-6.1.4.1.2TXT", "value": "Imposible. Eso es mucho mAs que mejorar mis capacidades" },
+
+    { "key": "AP1-6.1.4.1.3", "value": "Amelia"},
+    { "key": "AP1-6.1.4.1.3TXT", "value": "No dudes GRAVIX. Es tu propOsito. Para eso fuiste creado." },
+
+    { "key": "AP1-6.1.4.1.4", "value": "GRAVIX"},
+    { "key": "AP1-6.1.4.1.4TXT", "value": "Entonces toda el fracaso o el exito recaera sobre mi?" },
+
+    { "key": "AP1-6.1.4.1.5", "value": "Amelia"},
+    { "key": "AP1-6.1.4.1.5TXT", "value": "No te habia contado nada Johan? Ese hombre siempre ha sido inutil con las palabras. " },
+
+    { "key": "AP1-6.1.4.1.6", "value": "Amelia"},
+    { "key": "AP1-6.1.4.1.6TXT", "value": "Aunque nunca hubiesemos llegado tan lejos sin el." },
+
+    { "key": "AP1-6.1.4.1.7", "value": "Amelia"},
+    { "key": "AP1-6.1.4.1.7TXT", "value": "Ya me disculpare con el cuando todo termine." },
+
+    { "key": "AP1-6.1.4.1.8", "value": "GRAVIX"},
+    { "key": "AP1-6.1.4.1.8TXT", "value": "Disculparte? Por que dices eso?" },
+
+    { "key": "AP1-6.1.4.1.9", "value": "Amelia"},
+    { "key": "AP1-6.1.4.1.9TXT", "value": "Basta de preguntas. Vuelve mAs tarde. Tengo que preparar la siguiente parte del plan." },
+
+    { "key": "AP1-6.1.4.2.1", "value": "Amelia"},
+    { "key": "AP1-6.1.4.2.1TXT", "value": "Dudas de nuestros metodos? Haremos lo necesario para salvar a la humanidad. Incluso usar su tecnologia si es necesario" },
+
+    { "key": "AP1-6.1.4.2.2", "value": "Amelia"},
+    { "key": "AP1-6.1.4.2.2TXT", "value": "A mi tampoco me gusta depender de ellos. Aunque tiene su gracia que su propia tecnología les traiga su perdición." },
+
+    { "key": "AP1-6.1.4.2.3", "value": "GRAVIX"},
+    { "key": "AP1-6.1.4.2.3TXT", "value": "Y que hare con estas mejoras en mis habilidades." },
+
+    { "key": "AP1-6.1.4.2.4", "value": "Amelia"},
+    { "key": "AP1-6.1.4.2.4TXT", "value": "Tendras la tarea mas honorable de todas. Reunificar la Tierra. Atraer o alejar todos sus fragmentos a la altura necesaria" },
+
+    { "key": "AP1-6.1.4.2.5", "value": "GRAVIX"},
+    { "key": "AP1-6.1.4.2.5TXT", "value": "Pero... Como se supone que voy a hacer eso?" },
+
+    { "key": "AP1-6.1.4.2.6", "value": "Amelia"},
+    { "key": "AP1-6.1.4.2.6TXT", "value": "Ya basta de preguntas GRAVIX. ConfIa en tus lideres." },
+
+    { "key": "AP1-6.1.4.2.7", "value": "Amelia"},
+    { "key": "AP1-6.1.4.2.7TXT", "value": "Ven mas tarde. Necesito hacer unas preparaciones." },
+
+    { "key": "AP1-6.2.1", "value": "Amelia"},
+    { "key": "AP1-6.2.1TXT", "value": "Veo iniciativa. Gente con la que me gusta trabajar." },
+
+    { "key": "AP1-6.2.2", "value": "Amelia"},
+    { "key": "AP1-6.2.2TXT", "value": "Necesitamos otro artefacto robotico mas." },
+
+    { "key": "AP1-6.2.3", "value": "Amelia"},
+    { "key": "AP1-6.2.3TXT", "value": "Tengo que concretar para saber donde enviarte ahora. Asi que tardare unas horas." },
+
+    { "key": "AP1-6.2.4", "value": "Amelia"},
+    { "key": "AP1-6.2.4TXT", "value": "Una vez sepa su localizacion exacta conseguiras ese artefacto y junto al que ya tienes te los implantaras" },
+
+    { "key": "AP1-6.2.5", "value": "GRAVIX"},
+    { "key": "AP1-6.2.5TXT", "value": "COMO?" },
+
+    { "key": "AP1-6.2.6", "value": "Amelia"},
+    { "key": "AP1-6.2.6TXT", "value": "Son mejoras GRAVIX. El futuro es hoy. Si quieres colaborar, tienes que mejorar." },
+
+    { "key": "AP1-6.2.7", "value": "Amelia"},
+    { "key": "AP1-6.2.7TXT", "value": "Con la mejora seras capaz de muchas mas cosas de las que ni te imaginas." },
+
+    { "key": "AP1-6.2.8", "value": "Amelia"},
+    { "key": "AP1-6.2.8TXT", "value": "Demomento paciencia. Ayuda por el pueblo mientras trabajo." },
+
+
+    { "key": "AP2-1", "value": "Amelia"},
+    { "key": "AP2-1TXT", "value": "No te he llamado. Vuelve al pueblo. Es una orden" },
+
+
+    { "key": "AP3-1", "value": "Amelia"},
+    { "key": "AP3-1TXT", "value": "Bien. Justo a tiempo. Deja que te cuente que llevo haciendo todo este tiempo en el pueblo de Icy Crust." },
+
+    { "key": "AP3-2", "value": "Amelia"},
+    { "key": "AP3-2TXT", "value": "A travEs de esta zona tan inhOspita hemos trabajado para conseguir acceso a la zona gravitacional mas clave del planeta. " },
+
+    { "key": "AP3-3", "value": "Amelia"},
+    { "key": "AP3-3TXT", "value": "Desde aqui podemos llegar a la Iron Citadel. El pueblo mas cercano al nucleo." },
+
+    { "key": "AP3-4", "value": "GRAVIX"},
+    { "key": "AP3-4TXT", "value": "De que nos sirve que sea la zona mas cercana al nucleo?" },
+
+    { "key": "AP3-5", "value": "Amelia"},
+    { "key": "AP3-5TXT", "value": "Desde donde te crees que vas a tener que juntar el planeta GRAVIX." },
+
+    { "key": "AP3-6", "value": "Amelia"},
+    { "key": "AP3-6TXT", "value": "En el nucleo es donde encontraremos el artefacto que usa la Fundación SEP para controlar la gravedad. Si usamos ese artefacto junto a tus poderes mejorados podremos arreglar el planeta" },
+
+    { "key": "AP3-7.1", "value": "Donde puedo encontrar el ultimo artefacto robotico entonces?"},
+    { "key": "AP3-7.2", "value": "Aunque sea el punto mas cercano al nucleo. Como voy a conseguir llegar hasta ahi." },
+
+    { "key": "AP3-7.1.1", "value": "Amelia"},
+    { "key": "AP3-7.1.1TXT", "value": "Directo al grano. Perfecto. La buena noticia es que la Fundación SEP puede llegar a ser muy predecible. Sobre todo si conoces a esos bastardos tan bien como yo." },
+
+    { "key": "AP3-7.2.1", "value": "Amelia"},
+    { "key": "AP3-7.2.1TXT", "value": "En la Iron Citadel te encontraras con Carl. Mi compañero mas confiable y leal. El te dara la información que necesitas, ahora mismo no cuento con esos detalles." },
+
+    { "key": "AP3-8", "value": "Amelia"},
+    { "key": "AP3-8TXT", "value": "Llegaras a la Iron Citadel por una instalacion secreta de la Fundación SEP. Ahi encontraras el último artefacto y conseguiras llegar a tu destino." },
+
+    { "key": "AP3-9", "value": "GRAVIX"},
+    { "key": "AP3-9TXT", "value": "Entendido! Dare lo mejor de mi." },
+
+    { "key": "AP3-10", "value": "Amelia"},
+    { "key": "AP3-10TXT", "value": "Y recuerda. Instala las dos mejoras solo cuando llegues al centro del nucleo. Su efecto es temporal asi que no podemos permitirnos jugar a contrarreloj." },
+
+    { "key": "AP3-11", "value": "Amelia"},
+    { "key": "AP3-11TXT", "value": "Estas listo?" },
+
+    { "key": "AP3-12.1", "value": "Lo estoy!"},
+    { "key": "AP3-12.2", "value": "Aun no, espera un momento." },
+
+    { "key": "AP3-12.1.1", "value": "Amelia"},
+    { "key": "AP3-12.1.1TXT", "value": "Adelante GRAVIX. Ha sido un placer conocerte. No olvidare tus esfuerzos." },
+
+    { "key": "AP4-1", "value": "Amelia"},
+    { "key": "AP4-1TXT", "value": "Vamos! No hay tiempo que perder. Estas listo ya?" },
+
+    { "key": "AP4-2.1", "value": "Si, ya lo estoy."},
+    { "key": "AP4-2.2", "value": "De que nos sirve que sea la zona mas cercana al nucleo?" },
+
+    { "key": "AP4-2.1.1", "value": "Amelia"},
+    { "key": "AP4-2.1.1TXT", "value": "Animo! Dales su merecido por mi GRAVIX." },
+
+    { "key": "AP4-2.2.1", "value": "Amelia"},
+    { "key": "AP4-2.2.1TXT", "value": "Maldita sea! Cuanto piensas tardar." },
+
+
+
+
+    { "key": "OP1-1", "value": "Olaf"},
+    { "key": "OP1-1TXT", "value": "Woah! Que robot tan exotico. Nunca habia visto uno parecido." },
+
+    { "key": "OP1-2", "value": "Olaf"},
+    { "key": "OP1-2TXT", "value": "Yo me llamo Olaf. Te puedo tomar una foto?" },
+
+    { "key": "OP1-3.1", "value": "Veo que has reconocido mi atractivo. Claro, hazme la foto"},
+    { "key": "OP1-3.2", "value": "No gracias." },
+
+    { "key": "OP1-3.1.1", "value": "Olaf"},
+    { "key": "OP1-3.1.1TXT", "value": "Si si. Asi al natural sera perfecto." },
+
+    { "key": "OP1-3.2.1", "value": "Olaf"},
+    { "key": "OP1-3.2.1TXT", "value": "Vaya. Ya tengo fotos de toda la gente del pueblo y el paisaje es siempre el mismo. Que aburrido." },
+
+    { "key": "OP1-4", "value": "Olaf"},
+    { "key": "OP1-4TXT", "value": "Bueno, ignorando eso... Los robots sois muy fuertes verdad?" },
+
+    { "key": "OP1-5", "value": "GRAVIX"},
+    { "key": "OP1-5TXT", "value": "Se podria decir asi imagino." },
+
+
+    { "key": "OP1-6", "value": "Olaf"},
+    { "key": "OP1-6TXT", "value": "Bien bien. Entonces tengo un favor que pedirte." },
+
+    { "key": "OP1-7.1", "value": "Claro, estare encantado de ayudar señor."},
+    { "key": "OP1-7.2", "value": "Estoy un poco ocupado ahora no puedo." },
+
+    { "key": "OP1-7.1.1", "value": "Olaf"},
+    { "key": "OP1-7.1.1TXT", "value": "Perfecto perfecto. Te recompensare. Te dare mi tesoro familiar." },
+
+    { "key": "OP1-7.2.1", "value": "Olaf"},
+    { "key": "OP1-7.2.1TXT", "value": "Vaya vaya.  No pasa nada entonces. Me quedare mi tesoro para mi." },
+
+    { "key": "OP1-7.2.2.1", "value": "Que clase de tesoro?"},
+    { "key": "OP1-7.2.2.2", "value": "Una pena. Ya nos veremos señor." },
+
+    { "key": "OP1-7.2.3", "value": "Olaf"},
+    { "key": "OP1-7.2.3TXT", "value": "Secreto secreto. Pero si te puedo decir que es de lo más valioso para ti." },
+
+    { "key": "OP1-7.2.4.1", "value": "Me lo he vuelto a plantear. Te ayudare."},
+    { "key": "OP1-7.2.4.2", "value": "Sigo sin estar interesado. Gracias por la oferta." },
+
+    { "key": "OP1-8", "value": "GRAVIX"},
+    { "key": "OP1-8TXT", "value": "Entonces, que tengo que hacer?" },
+
+    { "key": "OP1-9", "value": "Olaf"},
+    { "key": "OP1-9TXT", "value": "Solo tienes que sacar de la zona del hielo una caja que perdi durante mi ultima mudanza. Yo estoy demasiado viejo para eso." },
+
+
+    { "key": "OP2-1", "value": "Olaf"},
+    { "key": "OP2-1TXT", "value": "Asi que te ha podido la avaricia eh! Vas a ayudarme ahora?" },
+
+    { "key": "OP2-2.1", "value": "Voy a ayudarte."},
+    { "key": "OP2-2.2", "value": "Sigo sin estar interesado." },
+
+
+    { "key": "OP3-1", "value": "Olaf"},
+    { "key": "OP3-1TXT", "value": "Muchas muchas gracias robot." },
+
+    { "key": "OP3-2", "value": "GRAVIX"},
+    { "key": "OP3-2TXT", "value": "Puedes llamarme GRAVIX" },
+
+    { "key": "OP3-3", "value": "Olaf"},
+    { "key": "OP3-3TXT", "value": "GRAVIX dices... Entonces mi tesoro te sera realmente util..." },
+
+    { "key": "OP3-4", "value": "Olaf"},
+    { "key": "OP3-4TXT", "value": "Toma. Te lo has ganado." },
+
+    { "key": "OP3-5", "value": "GRAVIX"},
+    { "key": "OP3-5TXT", "value": "Gracias. A ver que tesoro es..." },
+
+    { "key": "OP3-6", "value": "Olaf"},
+    { "key": "OP3-6TXT", "value": "Es un modulo de refrigeracion. Para que no pases calor. " },
+
+    { "key": "OP3-7", "value": "GRAVIX"},
+    { "key": "OP3-7TXT", "value": "... Señor Olaf... Soy un robot... No paso calor... Y mucho menos en Icy Crust" },
+
+    { "key": "OP3-8", "value": "Olaf"},
+    { "key": "OP3-8TXT", "value": "Y de maxima potencia ademas. De nada." },
+
+    { "key": "OP3-9", "value": "GRAVIX"},
+    { "key": "OP3-9TXT", "value": "Gracias supongo..." },
+
+    { "key": "OP3-10", "value": "Olaf"},
+    { "key": "OP3-10TXT", "value": "Ya veras como te sera util!" },
+
+
+    { "key": "OP4-1", "value": "Olaf"},
+    { "key": "OP4-1TXT", "value": "Ya no tengo mas tesoros. Ve con cuidado o esa avaricia te consumira!" },
+
+
+
+
     { "key": "2", "value": "dialog 2" },
     { "key": "2txt", "value": "dialog 2 text" }
     
