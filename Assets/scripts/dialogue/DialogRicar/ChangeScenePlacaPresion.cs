@@ -10,7 +10,7 @@ public class ChangeScenePlacaPresion : MonoBehaviour
     public BaseNode node;
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Cube"))
+        if (other.CompareTag("Cube") || other.CompareTag("Player"))
         {
             StartCoroutine(ShowNextDialogueWhenChangeScene());
         }

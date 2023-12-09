@@ -4,11 +4,20 @@ using UnityEngine.SceneManagement;
 public class ChangeSceneAfterDialogue : TriggerNode, iHaveNextNode
 {
     [SerializeField]
-    private string sceneName;    
+    private string sceneName;
+    public bool hasToDestroy = false;
 
     public override void Trigger()
     {
         //SceneManager.LoadScene(sceneName);
+        if (hasToDestroy)
+        {
+            Destroy(FindObjectOfType<GuardarDatosUI1>().gameObject);
+        }
+        else
+        {
+            FindObjectOfType<GuardarDatosUI1>().GetButtons();
+        }
         FindObjectOfType<NextSceneButton>().ChangeLevel(sceneName);
     }   
 

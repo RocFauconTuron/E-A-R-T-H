@@ -6,7 +6,6 @@ using UnityEngine.SceneManagement;
 public class ActivateGameObjedcts : TriggerNode, iHaveNextNode
 {
     public List<string> objectNames;
-    public List<GameObject> objects;
     public override void Trigger()
     {
         for (int i = 0; i < objectNames.Count; i++)

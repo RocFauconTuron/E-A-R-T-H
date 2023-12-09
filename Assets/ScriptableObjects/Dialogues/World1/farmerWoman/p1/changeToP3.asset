@@ -15,4 +15,4 @@ MonoBehaviour:
   background: {fileID: 21300000, guid: 0aa0caa30f46b594cab70a90152d48d5, type: 3}
   buttonName: ButtonBeatrice
   buttonNode: {fileID: 11400000, guid: 3433a0759d674a74598118c93c855b37, type: 2}
-  nextDialogNode: {fileID: 11400000, guid: fa86fdbfe4805d04a8136deb8f07cb88, type: 2}
+  nextDialogNode: {fileID: 0}

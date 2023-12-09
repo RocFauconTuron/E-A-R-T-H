@@ -203,6 +203,87 @@
 
 
 
+    { "key": "DP1-1", "value": "Alcalde Dante"},
+    { "key": "DP1-1TXT", "value": "..." },
+
+    { "key": "DP1-2", "value": "GRAVIX"},
+    { "key": "DP1-2TXT", "value": "Hola? buenos días?" },
+    
+    { "key": "DP1-3", "value": "Alcalde Dante"},
+    { "key": "DP1-3TXT", "value": "Asi que tu eres el robot que ha salido de las instalaciones derruidas..." },
+
+    { "key": "DP1-4.1", "value": "Asi es. Algún problema?"},
+    { "key": "DP1-4.2", "value": "Correcto. Y casi no lo consigo." },
+
+    { "key": "DP1-4.1.1", "value": "Alcalde Dante"},
+    { "key": "DP1-4.1.1TXT", "value": "Eso esta por ver. Dependerá de ti." },
+
+    { "key": "DP1-4.1.2", "value": "GRAVIX"},
+    { "key": "DP1-4.1.2TXT", "value": "No vengo a causar problemas. Estoy con el cientifico Johan." },
+
+    { "key": "DP1-4.1.3", "value": "Alcalde Dante"},
+    { "key": "DP1-4.1.3TXT", "value": "Hm... Si tu lo dices. Soy el alcalde de Blossomvile, te tendré vigilado." },
+
+    { "key": "DP1-4.1.4.1", "value": "Haz lo que quieras,"},
+    { "key": "DP1-4.1.4.2", "value": "Entiendo tu desconfianza. Dejame demostrartelo. Hay algo que pueda hacer por ti?" },
+
+
+    { "key": "DP1-4.2.1", "value": "Alcalde Dante"},
+    { "key": "DP1-4.2.1TXT", "value": "Entiendo. Y que te tienes pensado hacer por mi pueblo ahora?" },
+
+    { "key": "DP1-4.2.2", "value": "GRAVIX"},
+    { "key": "DP1-4.2.2TXT", "value": "Por tu pueblo? Eres el alcalde?" },
+
+    { "key": "DP1-4.2.3", "value": "Alcalde Dante"},
+    { "key": "DP1-4.2.3TXT", "value": "Si, soy Dante, el alcalde de Blossomvile. O lo que queda de ella despues del ataque de la fundación SEP" },
+
+    { "key": "DP1-4.2.4.1", "value": "Siento que no haya podido hacer nada al respecto. Hay algo con lo que te pueda ayudar?"},
+    { "key": "DP1-4.2.4.2", "value": "Mucha suerte entonces. Nos vemos." },
+
+    { "key": "DP1-5", "value": "Alcalde Dante"},
+    { "key": "DP1-5TXT", "value": "Es una buena oportunidad para ver de que es capaz Johan con buenos recursos." },
+
+    { "key": "DP1-6", "value": "Alcalde Dante"},
+    { "key": "DP1-6TXT", "value": "Necesito que consigas una bobina estabilizadora. Ve a las ruinas de un antiguo edificio cerca de aqui y la encontraras." },
+
+
+
+    { "key": "DP2-1", "value": "Alcalde Dante"},
+    { "key": "DP2-1TXT", "value": "Veo que lo has conseguido. Me disculpo por dudar de ti." },
+
+    { "key": "DP2-2", "value": "GRAVIX"},
+    { "key": "DP2-2TXT", "value": "Todo solucionado entonces." },
+    
+    { "key": "DP2-3", "value": "Alcalde Dante"},
+    { "key": "DP2-3TXT", "value": "La verdad es que solo era un prueba. Puedes quedarte la bobina como agradecimiento." },
+
+    { "key": "DP2-4", "value": "Alcalde Dante"},
+    { "key": "DP2-4TXT", "value": "Al fin y al cabo la has conseguido tu." },
+
+    { "key": "DP2-5", "value": "GRAVIX"},
+    {
+      "key": "DP2-5TXT",
+      "value": "Gracias."
+    },
+
+    { "key": "DP3-1", "value": "Alcalde Dante"},
+    { "key": "DP3-1TXT", "value": "Mucho animo. Siendo una creación de Johan, te esperan grandes cosas" },
+
+    { "key": "DP3-2", "value": "GRAVIX"},
+    { "key": "DP3-2TXT", "value": "Gracias alcalde." },
+
+
+
+    { "key": "DP4-1", "value": "Alcalde Dante"},
+    { "key": "DP4-1TXT", "value": "Aun sigues por aqui? Que quieres forastero?" },
+
+    { "key": "DP4-2.1", "value": "Nada nada. Mejor me voy ya."},
+    { "key": "DP4-2.2", "value": "Hemos empezado con mal pie. Por que no me dices algo en lo que te pueda ayudar para hacerte cambiar de opinion?" },
+    
+    { "key": "DP4-3", "value": "Alcalde Dante"},
+    { "key": "DP4-3TXT", "value": "Veamos, si que hay algo en lo que me puedes ayudar. Necesito que consigas una bobina estabilizadora. Ve a las ruinas de un antiguo edificio cerca de aqui y la encontraras." },
+
+
     { "key": "2", "value": "dialog 2" },
     { "key": "2txt", "value": "dialog 2 text" }
     

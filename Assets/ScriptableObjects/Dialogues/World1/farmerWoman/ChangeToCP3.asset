@@ -15,4 +15,4 @@ MonoBehaviour:
   background: {fileID: 21300000, guid: 0aa0caa30f46b594cab70a90152d48d5, type: 3}
   buttonName: ButtonJohan
   buttonNode: {fileID: 11400000, guid: 9a5400b7e02a0d740a2112c1f4263a2f, type: 2}
-  nextDialogNode: {fileID: 0}
+  nextDialogNode: {fileID: 11400000, guid: 70947030bcf634e468b493bc25a07596, type: 2}

@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/World1UI.unity
     guid: 59541f751b7818448ba54de522c2bdba
+  - enabled: 1
+    path: Assets/Scenes/DanteScene.unity
+    guid: 9580c925b6042764d8e1017ea92f664d
   m_configObjects: {}
