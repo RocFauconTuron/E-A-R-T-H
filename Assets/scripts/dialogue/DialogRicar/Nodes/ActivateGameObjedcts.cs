@@ -11,12 +11,8 @@ public class ActivateGameObjedcts : TriggerNode, iHaveNextNode
     {
         for (int i = 0; i < objectNames.Count; i++)
         {
-            GameObject.Find(objectNames[i]).GetComponent<MoveButton>().enabled = true;
+            GameObject.Find("FindObjController").GetComponent<FindObj>().activateButon(objectNames[i]);
         }
-        //foreach (var item in objects)
-        //{
-        //    Instantiate(item, Vector3.zero, Quaternion.identity);
-        //}
     }   
 
     [SerializeField, Header("Next Node: (null) => EndNode")]

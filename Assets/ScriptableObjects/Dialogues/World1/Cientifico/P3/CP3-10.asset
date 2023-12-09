@@ -9,10 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 91f0a07098c40b24996188dabec8220e, type: 3}
-  m_Name: changeToP3
+  m_Script: {fileID: 11500000, guid: 0fb7ddef03c1b324887312227d59fc8c, type: 3}
+  m_Name: CP3-10
   m_EditorClassIdentifier: 
   background: {fileID: 21300000, guid: 0aa0caa30f46b594cab70a90152d48d5, type: 3}
-  buttonName: ButtonBeatrice
-  buttonNode: {fileID: 11400000, guid: 3433a0759d674a74598118c93c855b37, type: 2}
-  nextDialogNode: {fileID: 11400000, guid: fa86fdbfe4805d04a8136deb8f07cb88, type: 2}
+  keyName: CP3-10
+  keyMessage: CP3-10TXT
+  speakers:
+  - active: 1
+    speaker: {fileID: 21300000, guid: a1c0cf3f2b042fb4ea3c3780b0011c4a, type: 3}
+  nextDialogNode: {fileID: 11400000, guid: c5dab3f280d3005468d252fdab69946c, type: 2}

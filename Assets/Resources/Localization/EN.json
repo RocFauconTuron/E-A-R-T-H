@@ -64,6 +64,63 @@
 
 
 
+    { "key": "CP2-1", "value": "Cientifico Johan" },
+    {"key": "CP2-1TXT","value": "No he terminado aun... Lo siento..."},
+
+    {"key": "CP2-2.1", "value": "De acuerdo, ningun problema"},
+    {"key": "CP2-2.2", "value": "Aun no? Vaya"},
+
+    { "key": "CP2-3", "value": "Cientifico Johan" },
+    {"key": "CP2-3TXT","value": "Lo siento... Seguro que encuentras a alguien que te pueda entretener un rato..."},
+
+
+    { "key": "CP3-1", "value": "Cientifico Johan" },
+    {"key": "CP3-1TXT","value": "Vale... Ya he hablado con Amelia."},
+
+    { "key": "CP3-2", "value": "GRAVIX" },
+    {"key": "CP3-2TXT","value": "Que te ha dicho?"},
+
+    { "key": "CP3-3", "value": "Cientifico Johan" },
+    {"key": "CP3-3TXT","value": "Le he contado todo. Ha estado muy contenta. Hacia tiempo que no la escuchaba alegrarse asi... Bueno, que me distraigo."},
+
+    { "key": "CP3-4", "value": "Cientifico Johan" },
+    {"key": "CP3-4TXT","value": "Volviendo a lo importante. Amelia se encuentra en el pueblo de Icy Crest, que se encuentra en una zona gravitacional cercana. Quiere que vayas alli para hablar con ella."},
+
+    { "key": "CP3-5", "value": "GRAVIX" },
+    {"key": "CP3-5TXT","value": "Zona gravitacional?"},
+
+    { "key": "CP3-6", "value": "Cientifico Johan" },
+    {"key": "CP3-6TXT","value": "Es como llamamos a las zonas que afectadas de forma diferente por la gravedad."},
+
+    { "key": "CP3-7", "value": "Cientifico Johan" },
+    {"key": "CP3-7TXT","value": "Cuando la Fundación SEP se cargo el nucleo gravitacional de la Tierra hizo que tuviera efectos muy diferentes por el mundo."},
+    
+    { "key": "CP3-8", "value": "GRAVIX" },
+    {"key": "CP3-8TXT","value": "Y que clase de efectos ha causado en Icy Crest?"},
+
+    { "key": "CP3-9", "value": "Cientifico Johan" },
+    {"key": "CP3-9TXT","value": "La Tierra se rompio y el fragmento donde se situa ese pueblo se alejo del nucleo, haciendolo la zona habitable mas fria del planeta."},
+
+    { "key": "CP3-10", "value": "GRAVIX" },
+    {"key": "CP3-10TXT","value": "Y por que no se mueven de zona? Suena extremadamente peligroso estar ahi."},
+
+    { "key": "CP3-11", "value": "Cientifico Johan" },
+    {"key": "CP3-11TXT","value": "Las conexiones entre zonas gravitacionales son increiblemente inestables. La mayoria de gente no sobrevive el viaje. Por suerte, tu no eres como la mayoria."},
+
+    { "key": "CP3-12", "value": "Cientifico Johan" },
+    {"key": "CP3-12TXT","value": "Estas listo?"},
+
+    { "key": "CP3-13.1", "value": "Lo estoy." },
+    {"key": "CP3-13.2","value": "Aun no."},
+
+    { "key": "CP3-14", "value": "Cientifico Johan" },
+    {"key": "CP3-14TXT","value": "Casi se me olvida! Por el camino pasarás por una de las instalaciones de la Fundación SEP. Encargate de recoger todas las piezas roboticas que encuentres."},
+
+    { "key": "CP3-15", "value": "Cientifico Johan" },
+    {"key": "CP3-15TXT","value": " Amelia me las ha pedido, asi que deben ser muy importantes, aunque no se para que sirven, ella ya te lo contara... Supongo."},
+
+
+
 
     { "key": "BP1-1", "value": "Beatrice" },
     {"key": "BP1-1TXT","value": "Buenos dIas! Que tenemos por aquI? Un visitante?"},

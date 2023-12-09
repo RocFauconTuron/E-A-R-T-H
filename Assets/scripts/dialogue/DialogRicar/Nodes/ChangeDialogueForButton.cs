@@ -9,7 +9,7 @@ public class ChangeDialogueForButton : TriggerNode, iHaveNextNode
     public string buttonName;
     public BaseNode buttonNode;
     public override void Trigger()
-    {
+    {      
         GameObject.Find("FindObjController").GetComponent<FindObj>().DoAction(buttonNode, buttonName);
     }   
 

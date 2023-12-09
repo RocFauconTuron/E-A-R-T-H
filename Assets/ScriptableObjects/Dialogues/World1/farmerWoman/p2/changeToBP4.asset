@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 91f0a07098c40b24996188dabec8220e, type: 3}
-  m_Name: changeToP3
+  m_Name: changeToBP4
   m_EditorClassIdentifier: 
   background: {fileID: 21300000, guid: 0aa0caa30f46b594cab70a90152d48d5, type: 3}
   buttonName: ButtonBeatrice
-  buttonNode: {fileID: 11400000, guid: 3433a0759d674a74598118c93c855b37, type: 2}
+  buttonNode: {fileID: 11400000, guid: 2c98ebb2e0752484aae8a9732075baa6, type: 2}
   nextDialogNode: {fileID: 11400000, guid: fa86fdbfe4805d04a8136deb8f07cb88, type: 2}

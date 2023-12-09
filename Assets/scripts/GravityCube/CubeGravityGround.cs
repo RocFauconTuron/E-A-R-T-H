@@ -41,10 +41,9 @@ public class CubeGravityGround : MonoBehaviour
             dir = -transform.right;
         }
         RaycastHit hit;
-        if (Physics.Raycast(transform.position, dir, out hit, 2f, layerGround))
+        if (Physics.Raycast(transform.position, dir, out hit, 3f, layerGround))
         {
             gravityControllerObj.canChangeGravity = true;
         }
-        Debug.Log(gravityControllerObj.canChangeGravity);
     }
 }
