@@ -669,6 +669,103 @@
     { "key": "LP5-1TXT", "value": "Déjame en paz. Tengo muchas cosas que hacer." },
 
 
+    { "key": "C-1", "value": "Carl"},
+    { "key": "C-1TXT", "value": "Ey! Aquí, soy Carl, ven conmigo." },
+
+    { "key": "C-2", "value": "GRAVIX"},
+    { "key": "C-2TXT", "value": "Amelia me dijo que te buscara, no pensaba que me fueses a encontrar tan rapido." },
+  
+    { "key": "C-3", "value": "Carl"},
+    { "key": "C-3TXT", "value": "Que te esperabas del agente de la UGT más cercano a la Fundación SEP. " },
+
+    { "key": "C-4", "value": "Carl"},
+    { "key": "C-4TXT", "value": "Tu debes de ser GRAVIX por lo que tengo entendido." },
+
+    { "key": "C-5", "value": "GRAVIX"},
+    { "key": "C-5TXT", "value": "Asi es. " },
+
+    { "key": "C-6", "value": "Carl"},
+    { "key": "C-6TXT", "value": "Has conseguido las dos mejoras imagino. Ahora solo hace falta llevarte hasta el nucleo." },
+
+    { "key": "C-7.1", "value": "Estamos en el sitio más importante de la Fundación SEP. No estara altamente protegido?"},
+    { "key": "C-7.2", "value": "Que tendre que hacer dentro?" },
+
+    { "key": "C-7.1.1", "value": "Carl"},
+    { "key": "C-7.1.1TXT", "value": "Dudas amigo mio? Eso es lo que he estado preparando yo todo este tiempo." },
+
+    { "key": "C-7.1.2", "value": "Carl"},
+    { "key": "C-7.1.2TXT", "value": "Tengo una ruta que evitara que nos encontremos con nadie. Aunque tendras que ir tu solo, es demasiado peligroso para mi." },
+
+    { "key": "C-7.1.3", "value": "GRAVIX"},
+    { "key": "C-7.1.3TXT", "value": "Y para mi no lo será?" },
+
+    { "key": "C-7.1.4", "value": "Carl"},
+    { "key": "C-7.1.4TXT", "value": "Por favor GRAVIX, tu estas fabricado para aguantar la presión del nucleo. Yo no." },
+
+    { "key": "C-7.1.5", "value": "Carl"},
+    { "key": "C-7.1.5TXT", "value": "No te preocupes. Todo saldra bien, ya estamos en el ultimo paso para recuperar la Tierra." },
+
+    { "key": "C-7.1.6", "value": "Carl"},
+    { "key": "C-7.1.6TXT", "value": "Si sales antes de que se haga de noche te preparare uno de mis famosos estofados." },
+
+    { "key": "C-7.1.7.1", "value": "Soy un robot, no puedo comer."},
+    { "key": "C-7.1.7.2", "value": "Famosos estofados? No había oido hablar de ellos." },
+
+    { "key": "C-7.1.7.1.1", "value": "Carl"},
+    { "key": "C-7.1.7.1.1TXT", "value": "Que tacaño fue Johan. Pudo conseguir la tecnologia para que tuvieras consciencia y controlases la gravedad pero no podia ponerte papilas gustativas." },
+
+    { "key": "C-7.1.7.2.1", "value": "Carl"},
+    { "key": "C-7.1.7.2.1TXT", "value": "Como que no? No te menciono nada Amelia? Le absorbe demasiado el trabajo hasta para pensar en su comida favorita." },
+
+    { "key": "C-7.1.8", "value": "GRAVIX"},
+    { "key": "C-7.1.8TXT", "value": "No estas nervioso?" },
+
+    { "key": "C-7.1.9", "value": "Carl"},
+    { "key": "C-7.1.9TXT", "value": "Supongo que un poco. Pero siempre he confiado en que llegaría el día en que todo se solucionaría. " },
+
+    { "key": "C-7.1.10", "value": "Carl"},
+    { "key": "C-7.1.10TXT", "value": "Bueno, estes preparado o no. Es ahora o nunca. Vamos!" },
+
+    { "key": "C-7.1.11", "value": "GRAVIX"},
+    { "key": "C-7.1.11TXT", "value": "Si!" },
+
+
+    { "key": "C-7.2.1", "value": "Carl"},
+    { "key": "C-7.2.1TXT", "value": "Vale. Por lo que me ha contado Amelia tendrás que conectarte al artefacto que esté controlando el nucleo." },
+
+    { "key": "C-7.2.2", "value": "Carl"},
+    { "key": "C-7.2.2TXT", "value": "Entonces, junto a las mejoras que te pondrás deberías poder usar tus poderes a escala planetaria." },
+
+    { "key": "C-7.2.3", "value": "Carl"},
+    { "key": "C-7.2.3TXT", "value": "Como funcionan tus habilidades ya es cosa tuya. Usas una palabra clave como Avada Kedavra o que?" },
+
+    { "key": "C-7.2.4.1", "value": "Es un poco más complejo que eso..."},
+    { "key": "C-7.2.4.2", "value": "Yo digo Avada Kedavra  y  sucede la magia." },
+
+    { "key": "C-7.2.4.1.1", "value": "Carl"},
+    { "key": "C-7.2.4.1.1TXT", "value": "Me lo imaginaba..." },
+
+    { "key": "C-7.2.4.2.1", "value": "Carl"},
+    { "key": "C-7.2.4.2.1TXT", "value": "Si hombre! No me tomes el pelo JA JA." },
+
+    { "key": "C-7.2.5", "value": "GRAVIX"},
+    { "key": "C-7.2.5TXT", "value": "Cuando empezamos la misión?" },
+
+    { "key": "C-7.2.6", "value": "Carl"},
+    { "key": "C-7.2.6TXT", "value": "De hecho, ahora mismo. Te guiaré hasta una entrada secundaria." },
+
+    { "key": "C-7.2.7", "value": "Carl"},
+    { "key": "C-7.2.7TXT", "value": "Desde ahí tendrás acceso al núcleo. Yo cubriré la retirada." },
+
+    { "key": "C-7.2.8", "value": "GRAVIX"},
+    { "key": "C-7.2.8TXT", "value": "Vamos ya entonces?" },
+
+    { "key": "C-7.2.9", "value": "Carl"},
+    { "key": "C-7.2.9TXT", "value": "Efectivamente GRAVIX. No hay tiempo que perder. Somos la esperanza de la humanidad." },
+
+
+
+
 
     { "key": "2", "value": "dialog 2" },
     { "key": "2txt", "value": "dialog 2 text" }
