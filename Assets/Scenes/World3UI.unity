@@ -316,9 +316,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   buttonNames:
-  - ButtonAmelia
-  - ButtonOlaf
-  - ButtonLeorio
+  - ButtonCarl
 --- !u!1 &1012609790
 GameObject:
   m_ObjectHideFlags: 0
@@ -553,9 +551,10 @@ MonoBehaviour:
   buttonBeatriceObj: {fileID: 0}
   buttonJohanObj: {fileID: 0}
   buttonDanteObj: {fileID: 0}
-  buttonAmeliaObj: {fileID: 107454576}
+  buttonAmeliaObj: {fileID: 0}
   buttonOlafObj: {fileID: 0}
   buttonLeorioObj: {fileID: 0}
+  buttonCarlObj: {fileID: 107454576}
 --- !u!4 &1467016618
 Transform:
   m_ObjectHideFlags: 0

@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/World1UI.unity
+    guid: 59541f751b7818448ba54de522c2bdba
+  - enabled: 1
     path: Assets/Scenes/ForestLevel.unity
     guid: ad649f1d045ee964f8eeffa9dffafc25
   - enabled: 1
@@ -15,9 +18,6 @@ EditorBuildSettings:
     path: Assets/Scenes/BeatriceScene.unity
     guid: 5c3a7dc01556dd14b856fa96d734b907
   - enabled: 1
-    path: Assets/Scenes/World1UI.unity
-    guid: 59541f751b7818448ba54de522c2bdba
-  - enabled: 1
     path: Assets/Scenes/DanteScene.unity
     guid: 9580c925b6042764d8e1017ea92f664d
   - enabled: 1
@@ -26,4 +26,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/World2UI.unity
     guid: 1f2d09185340e1d45aabf214f260c064
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 5e961b33a5aea5340bc7b217842d95f0
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 8dfc3e0d4a94fdf4296bea73789d4edd
+  - enabled: 1
+    path: Assets/Scenes/World3UI.unity
+    guid: 7f9cbeabc10088647bd26787b76fb5f0
   m_configObjects: {}

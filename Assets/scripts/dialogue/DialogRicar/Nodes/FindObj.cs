@@ -10,6 +10,7 @@ public class FindObj : MonoBehaviour
     [SerializeField] GameObject buttonAmeliaObj;
     [SerializeField] GameObject buttonOlafObj;
     [SerializeField] GameObject buttonLeorioObj;
+    [SerializeField] GameObject buttonCarlObj;
     public void DoAction (BaseNode node, string buttonName)
     {
         switch (buttonName)
@@ -31,6 +32,9 @@ public class FindObj : MonoBehaviour
                 break;
             case "ButtonLeorio":
                 buttonLeorioObj.GetComponent<PressButonForDialogue>()._node = node;
+                break;
+            case "ButtonCarl":
+                buttonCarlObj.GetComponent<PressButonForDialogue>()._node = node;
                 break;
         }
     }
@@ -56,6 +60,9 @@ public class FindObj : MonoBehaviour
             case "ButtonLeorio":
                 buttonLeorioObj.SetActive(true);
                 break;
+            case "ButtonCarl":
+                buttonCarlObj.SetActive(true);
+                break;
         }
     }
     public void desactivateButon(string buttonName)
@@ -80,6 +87,9 @@ public class FindObj : MonoBehaviour
             case "ButtonLeorio":
                 buttonLeorioObj.SetActive(false);
                 break;
+            case "ButtonCarl":
+                buttonCarlObj.SetActive(false);
+                break;
         }
     }
     public GameObject GetButton(string buttonName)
@@ -103,6 +113,9 @@ public class FindObj : MonoBehaviour
                 break;
             case "ButtonLeorio":
                 return buttonLeorioObj;
+                break;
+            case "ButtonCarl":
+                return buttonCarlObj;
                 break;
         }   
         return null;

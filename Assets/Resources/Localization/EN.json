@@ -767,6 +767,48 @@
 
 
 
+
+
+
+    { "key": "A1-1", "value": "AURA"},
+    { "key": "A1-1TXT", "value": "Que ilusión! Hemos conocido a nuestro creador. Que te ha parecido?" },
+
+    { "key": "A1-2.1", "value": "Parece una buena persona. Eso me tranquiliza."},
+    { "key": "A1-2.2", "value": "No me gusta. Me esperaba a alguien mejor." },
+
+    { "key": "A1-2.1.1", "value": "AURA"},
+    { "key": "A1-2.1.1TXT", "value": "Verdad que sí. Y además nos ha contado un montón de cosas interesantes." },
+
+    { "key": "A1-2.2.1", "value": "AURA"},
+    { "key": "A1-2.2.1TXT", "value": "No seas así. Parece que se esfuerza mucho en ayudar a la gente." },
+
+    { "key": "A1-3", "value": "AURA"},
+    { "key": "A1-3TXT", "value": "Deberíamos ayudarle a derrocar la Fundación SEP. Esa gente sí es maligna." },
+
+    { "key": "A1-3.1", "value": "Claro. Hay que hacer lo que podamos para cumplir nuestro proposito."},
+    { "key": "A1-3.2", "value": "Sí tu lo dices no tengo más remedio." },
+
+    { "key": "A1-3.1.1", "value": "AURA"},
+    { "key": "A1-3.1.1TXT", "value": "Exacto. Hay que cumplir con las expectativas de Johan." },
+
+    { "key": "A1-3.2.1", "value": "AURA"},
+    { "key": "A1-3.2.1TXT", "value": "Vamos... Sé más positivo!" },
+
+    { "key": "A1-4", "value": "AURA"},
+    { "key": "A1-4TXT", "value": "Empecemos por ver si alguien en Blossomvile necesita nuestra ayuda." },
+
+
+
+    { "key": "A2-1", "value": "AURA"},
+    { "key": "A2-1TXT", "value": "Increíble. Beatrice no exageraba cuando decía que este edificio es de antes de la Gran Fragmentación." },
+
+
+
+
+
+
+
+
     { "key": "2", "value": "dialog 2" },
     { "key": "2txt", "value": "dialog 2 text" }
     
