@@ -15,6 +15,6 @@ MonoBehaviour:
   background: {fileID: 21300000, guid: 86901ba9cae4956448ad1e38ccc9c470, type: 3}
   options:
   - keyText: LP1-3.1
-    next: {fileID: 0}
-  - keyText: LP1-3.1
-    next: {fileID: 0}
+    next: {fileID: 11400000, guid: dc6a3e8caac31014ea91cf1eebf4877f, type: 2}
+  - keyText: LP1-3.2
+    next: {fileID: 11400000, guid: c0183c5239046ea4da68b49a744800eb, type: 2}

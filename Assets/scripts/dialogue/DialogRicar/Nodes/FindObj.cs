@@ -7,6 +7,9 @@ public class FindObj : MonoBehaviour
     [SerializeField] GameObject buttonBeatriceObj;
     [SerializeField] GameObject buttonJohanObj;
     [SerializeField] GameObject buttonDanteObj;
+    [SerializeField] GameObject buttonAmeliaObj;
+    [SerializeField] GameObject buttonOlafObj;
+    [SerializeField] GameObject buttonLeorioObj;
     public void DoAction (BaseNode node, string buttonName)
     {
         switch (buttonName)
@@ -19,6 +22,15 @@ public class FindObj : MonoBehaviour
                 break;
             case "ButtonDante":
                 buttonDanteObj.GetComponent<PressButonForDialogue>()._node = node;
+                break;
+            case "ButtonAmelia":
+                buttonAmeliaObj.GetComponent<PressButonForDialogue>()._node = node;
+                break;
+            case "ButtonOlaf":
+                buttonOlafObj.GetComponent<PressButonForDialogue>()._node = node;
+                break;
+            case "ButtonLeorio":
+                buttonLeorioObj.GetComponent<PressButonForDialogue>()._node = node;
                 break;
         }
     }
@@ -35,6 +47,15 @@ public class FindObj : MonoBehaviour
             case "ButtonDante":
                 buttonDanteObj.SetActive(true);
                 break;
+            case "ButtonAmelia":
+                buttonAmeliaObj.SetActive(true);
+                break;
+            case "ButtonOlaf":
+                buttonOlafObj.SetActive(true);
+                break;
+            case "ButtonLeorio":
+                buttonLeorioObj.SetActive(true);
+                break;
         }
     }
     public void desactivateButon(string buttonName)
@@ -49,6 +70,15 @@ public class FindObj : MonoBehaviour
                 break;
             case "ButtonDante":
                 buttonDanteObj.SetActive(false);
+                break;
+            case "ButtonAmelia":
+                buttonAmeliaObj.SetActive(false);
+                break;
+            case "ButtonOlaf":
+                buttonOlafObj.SetActive(false);
+                break;
+            case "ButtonLeorio":
+                buttonLeorioObj.SetActive(false);
                 break;
         }
     }
@@ -65,7 +95,16 @@ public class FindObj : MonoBehaviour
             case "ButtonDante":
                 return buttonDanteObj;
                 break;
-        }
+            case "ButtonAmelia":
+                return buttonAmeliaObj;
+                break;
+            case "ButtonOlaf":
+                return buttonOlafObj;
+                break;
+            case "ButtonLeorio":
+                return buttonLeorioObj;
+                break;
+        }   
         return null;
     }
 }

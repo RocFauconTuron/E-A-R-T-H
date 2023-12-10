@@ -269,7 +269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce697fc28a7726241ab93ccc58b90bab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _node: {fileID: 11400000, guid: 1603c6133ed1e9e4e9e36da2a780af6c, type: 2}
+  _node: {fileID: 11400000, guid: 458bd7cc4fa9fc44b9e7f7b5eeaa3197, type: 2}
   dialogue: {fileID: 7865917757722306932}
 --- !u!1 &862032673
 GameObject:
@@ -282,7 +282,7 @@ GameObject:
   - component: {fileID: 862032674}
   - component: {fileID: 862032675}
   m_Layer: 0
-  m_Name: GuardarDatosUI1
+  m_Name: GuardarDatosUI2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -316,9 +316,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   buttonNames:
-  - ButtonJohan
-  - ButtonBeatrice
-  - ButtonDante
+  - ButtonAmelia
+  - ButtonOlaf
+  - ButtonLeorio
 --- !u!1 &1012609790
 GameObject:
   m_ObjectHideFlags: 0
@@ -552,9 +552,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be95143d25281414d98a0d729503255b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  buttonBeatriceObj: {fileID: 2767790161516873985}
-  buttonJohanObj: {fileID: 107454576}
-  buttonDanteObj: {fileID: 1580829035}
+  buttonBeatriceObj: {fileID: 0}
+  buttonJohanObj: {fileID: 0}
+  buttonDanteObj: {fileID: 0}
+  buttonAmeliaObj: {fileID: 107454576}
+  buttonOlafObj: {fileID: 1580829035}
+  buttonLeorioObj: {fileID: 2767790161516873985}
 --- !u!4 &1467016618
 Transform:
   m_ObjectHideFlags: 0
@@ -704,7 +707,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1580829036
 RectTransform:
   m_ObjectHideFlags: 0
@@ -737,7 +740,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce697fc28a7726241ab93ccc58b90bab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _node: {fileID: 11400000, guid: 4b793765b36f6434084bcd7a043d801e, type: 2}
+  _node: {fileID: 11400000, guid: dedf6b1e79641864989312d38b54de8a, type: 2}
   dialogue: {fileID: 7865917757722306932}
 --- !u!114 &1580829038
 MonoBehaviour:
@@ -1222,7 +1225,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!222 &2767790161516873988
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1329,7 +1332,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce697fc28a7726241ab93ccc58b90bab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _node: {fileID: 11400000, guid: f30e5a4e7f11994498e9f8cf04b18273, type: 2}
+  _node: {fileID: 11400000, guid: 132d68963a611914dbdf03525800adbd, type: 2}
   dialogue: {fileID: 7865917757722306932}
 --- !u!1 &3247392557382407184
 GameObject:

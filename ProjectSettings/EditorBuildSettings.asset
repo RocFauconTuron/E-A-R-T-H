@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DanteScene.unity
     guid: 9580c925b6042764d8e1017ea92f664d
+  - enabled: 1
+    path: Assets/Scenes/OlafScene.unity
+    guid: c89afb54e2b3b8a4096c4262d5b3e67a
+  - enabled: 1
+    path: Assets/Scenes/World2UI.unity
+    guid: 1f2d09185340e1d45aabf214f260c064
   m_configObjects: {}

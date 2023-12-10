@@ -544,6 +544,129 @@
     { "key": "OP4-1", "value": "Olaf"},
     { "key": "OP4-1TXT", "value": "Ya no tengo mas tesoros. Ve con cuidado o esa avaricia te consumira!" },
 
+    
+    { "key": "LP1-1", "value": "Leorio"},
+    { "key": "LP1-1TXT", "value": "Eh! Tu! No eres de por aqui verdad?" },
+
+    { "key": "LP1-2", "value": "Leorio"},
+    { "key": "LP1-2TXT", "value": "Me llamo Leorio. No seras por casualidad un comerciante?" },
+    
+    { "key": "LP1-3.1", "value": "Me temo que no. Trabajo con Amelia."},
+    { "key": "LP1-3.2", "value": "No lo soy señor. Pero si puedo ayudarte con algo. Solo pidelo." },
+
+    { "key": "LP1-3.1.1", "value": "Leorio"},
+    { "key": "LP1-3.1.1TXT", "value": "Otro experimento de la U.G.T? Veo que no saben cuando rendirse." },
+
+    { "key": "LP1-3.1.2", "value": "GRAVIX"},
+    { "key": "LP1-3.1.2TXT", "value": "Rendirse? Estan intentando salvar el planeta. Preferirias que no lo hiciesen?" },
+
+    { "key": "LP1-3.1.3", "value": "Leorio"},
+    { "key": "LP1-3.1.3TXT", "value": "No me malinterpretes. Aprecio sus esfuerzos por ayudar a la gente y dar esperanza." },
+
+    { "key": "LP1-3.1.4", "value": "Leorio"},
+    { "key": "LP1-3.1.4TXT", "value": "Pero hay que admitir que es obvio que este castigo divino no lo podemos solucionar los simples mortales." },   
+
+    { "key": "LP1-3.2.1", "value": "Leorio"},
+    { "key": "LP1-3.2.1TXT", "value": "La verdad es que el pueblo esta pasando frio. Las maquinas cada vez fallan mas" },
+
+    { "key": "LP1-3.2.2", "value": "GRAVIX"},
+    { "key": "LP1-3.2.2TXT", "value": "Como electricista del pueblo he tenido que reducir la cantidad de energia que producen para que no exploten ni falle la maquinaria." },
+
+    { "key": "LP1-3.2.3", "value": "Leorio"},
+    { "key": "LP1-3.2.3TXT", "value": "Necesito una bobina estabilizadora o los enfermos no pasaran el invierno. Sabes como conseguir alguna?" },
+
+    { "key": "LP1-3.2.4.1", "value": "De hecho, yo tengo una. Si realmente la necesitáis tanto. Os la entrego."},
+    { "key": "LP1-3.2.4.2", "value": "Me temo que no. Lo siento"},
+
+    { "key": "LP1-3.2.4.2.1", "value": "Leorio"},
+    { "key": "LP1-3.2.4.2.1TXT", "value": "Era de esperar. Esta claro que esto es un castigo divino, no hay nada que nosotros podamos hacer." },
+
+    { "key": "LP1-3.1.5.1", "value": "Supongo que es una manera de verlo."},
+    { "key": "LP1-3.1.5.2", "value": "No todo esta perdido Leorio. Confie en mi." },
+    { "key": "LP1-3.1.5.3", "value": "Soy GRAVIX, un robot capaz de controlar la gravedad. No soy un simple mortal." },
+
+    { "key": "LP1-3.1.5.1.1", "value": "Leorio"},
+    { "key": "LP1-3.1.5.1.1TXT", "value": "Lo es. Y aunque ya llega el fin. Preferiria no pasar mis ultimos días congelado. No tendras una bobina estabilizadora no?" },
+
+    { "key": "LP1-3.1.5.2.1", "value": "Leorio"},
+    { "key": "LP1-3.1.5.2.1TXT", "value": "Las palabras se las lleva el viento amigo. Aunque agradezco el intento." },
+
+    { "key": "LP1-3.1.5.2.2", "value": "Leorio"},
+    { "key": "LP1-3.1.5.2.2TXT", "value": "Por cierto, no tendras por casualidad una bobina estabilizadora?" },
+
+    { "key": "LP1-3.1.5.2.3", "value": "Leorio"},
+    { "key": "LP1-3.1.5.2.3TXT", "value": "Con ella podre aumentar la capacidad energetica del pueblo. Y le daria más calor a todas las casas." },
+
+    { "key": "LP1-3.1.5.3.1", "value": "Leorio"},
+    { "key": "LP1-3.1.5.3.1TXT", "value": "Lo que usted diga. No tendrá el poderoso GRAVIX una bobina estabilizadora para un pobre anciano?" },
+
+    { "key": "LP1-3.1.5.3.2", "value": "Leorio"},
+    { "key": "LP1-3.1.5.3.2TXT", "value": "Con ella podre aumentar la capacidad energetica del pueblo. Y le daria mas calor a todas las casas." },
+
+    { "key": "LP1-3.1.6.1", "value": "No, no tengo ninguna"},
+    { "key": "LP1-3.1.6.2", "value": "Claro. Aquí tienes. Usala bien." },
+
+    { "key": "LP1-3.1.6.1.1", "value": "Leorio"},
+    { "key": "LP1-3.1.6.1.1TXT", "value": "Y luego esperan que confie en que salvaran al mundo. No pueden ni evitar que un anciano se congele" },
+
+    { "key": "LP1-4", "value": "Leorio"},
+    { "key": "LP1-4TXT", "value": "Bendito seas! Podre volver a dar corriente completa a todo a mi casa. Cuanto debe hacer que no conecto mi reproductor de música." },
+
+    { "key": "LP1-5", "value": "Leorio"},
+    { "key": "LP1-5TXT", "value": "Y al pueblo entero tambien le ira bien claro." },
+
+
+
+    
+    { "key": "LP2-1", "value": "Leorio"},
+    { "key": "LP2-1TXT", "value": "Que tal amigo? Cuando quieras escuchar un poco de musica eres bienvenido por aqui." },
+
+    { "key": "LP2-2", "value": "Leorio"},
+    { "key": "LP2-2TXT", "value": "Tambien tengo chocolate caliente. Pero no se si los robots podeis tomarlo asi que mejor me lo quedo yo" },
+    
+    { "key": "LP2-3", "value": "GRAVIX"},
+    { "key": "LP2-3TXT", "value": "Ningún problema Leorio. Ha sido un placer ayudar." },
+
+
+    { "key": "LP3-1", "value": "Leorio"},
+    { "key": "LP3-1TXT", "value": "Bueno, en el poco probable caso de que encuentres una bobina. Hazmelo saber." },
+
+    { "key": "LP3-2.1", "value": "De hecho. Toma."},
+    { "key": "LP3-2.2", "value": "Te lo hare saber." },
+
+
+    { "key": "LP4-1", "value": "Leorio"},
+    { "key": "LP4-1TXT", "value": "Eh! Tú! No eres de por aqui verdad?" },
+
+    { "key": "LP4-2", "value": "Leorio"},
+    { "key": "LP4-2TXT", "value": "Me llamo Leorio. No seras por casualidad un comerciante?" },
+    
+    { "key": "LP4-3.1", "value": "No, lo siento. Solo estoy de paso."},
+    { "key": "LP4-3.2", "value": "Estoy trabajando con Amelia. Si hay algo con lo que pueda ayudar." },
+
+    { "key": "LP4-3.1.1", "value": "Leorio"},
+    { "key": "LP4-3.1.1TXT", "value": "Vaya... El castigo de Dios es de verdad es inesquivable." },
+
+    { "key": "LP4-3.2.1", "value": "Leorio"},
+    { "key": "LP4-3.2.1TXT", "value": "Incluso los robots teneis esperanza de conseguir algo trabajando con Amelia..." },
+
+    { "key": "LP4-4", "value": "GRAVIX"},
+    { "key": "LP4-4TXT", "value": "Que dices señor? Aun hay esperanza." },
+
+    { "key": "LP4-5", "value": "Leorio"},
+    { "key": "LP4-5TXT", "value": "Te crees algún tipo de mesías robot? Demuéstramelo." },
+
+    { "key": "LP4-7", "value": "GRAVIX"},
+    { "key": "LP4-7TXT", "value": "No..." },
+
+    { "key": "LP4-6", "value": "Leorio"},
+    { "key": "LP4-6TXT", "value": "Si tanta esperanza quieres que tenga dame lo que necesito para sobrevivir este invierno. Tienes una bobina estabilizadora?." },
+
+    { "key": "LP4-8", "value": "Leorio"},
+    { "key": "LP4-8TXT", "value": "Lo que pensaba" },
+
+    { "key": "LP5-1", "value": "Leorio"},
+    { "key": "LP5-1TXT", "value": "Déjame en paz. Tengo muchas cosas que hacer." },
 
 
 

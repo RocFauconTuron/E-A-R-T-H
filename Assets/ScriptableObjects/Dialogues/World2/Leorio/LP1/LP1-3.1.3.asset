@@ -18,4 +18,4 @@ MonoBehaviour:
   speakers:
   - active: 1
     speaker: {fileID: 21300000, guid: 86495ba66cbae0d41a77486c52fac364, type: 3}
-  nextDialogNode: {fileID: 0}
+  nextDialogNode: {fileID: 11400000, guid: c763a112652ac5b429b241c37a7ed3d3, type: 2}
