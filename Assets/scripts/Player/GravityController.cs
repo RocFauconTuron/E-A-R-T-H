@@ -135,6 +135,15 @@ public class GravityController : MonoBehaviour
         canChangeGravity = false;
         canCheckIfGround = false;
     }
+    public void Down()
+    {
+        downGravity = true;
+        upGravity = false;
+        rightGravity = false;
+        leftGravity = false;
+        forwardGravity = false;
+        backwardsGravity = false;
+    }
     IEnumerator rotPlayer(Vector3 angle)
     {
         playerMove.enabled = false;
