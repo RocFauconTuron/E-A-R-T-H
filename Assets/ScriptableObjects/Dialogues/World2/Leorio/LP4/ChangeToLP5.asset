@@ -9,13 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0fb7ddef03c1b324887312227d59fc8c, type: 3}
-  m_Name: LP1-3.2.4.2.1
+  m_Script: {fileID: 11500000, guid: 91f0a07098c40b24996188dabec8220e, type: 3}
+  m_Name: ChangeToLP5
   m_EditorClassIdentifier: 
   background: {fileID: 21300000, guid: 86901ba9cae4956448ad1e38ccc9c470, type: 3}
-  keyName: LP1-3.2.4.2.1
-  keyMessage: LP1-3.2.4.2.1TXT
-  speakers:
-  - active: 1
-    speaker: {fileID: 21300000, guid: 86495ba66cbae0d41a77486c52fac364, type: 3}
-  nextDialogNode: {fileID: 11400000, guid: 2da1de029ccdce74fb5592afe07dd83a, type: 2}
+  buttonName: ButtonLeorio
+  buttonNode: {fileID: 11400000, guid: 1481274e4efa89e4c8654bf6fb6aa9d9, type: 2}
+  nextDialogNode: {fileID: 0}

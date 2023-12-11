@@ -9,10 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 91f0a07098c40b24996188dabec8220e, type: 3}
-  m_Name: ChangeToCP2
+  m_Script: {fileID: 11500000, guid: 3d9b22e11cfb5a34baaa86af88e92347, type: 3}
+  m_Name: activateBobina
   m_EditorClassIdentifier: 
   background: {fileID: 21300000, guid: 0aa0caa30f46b594cab70a90152d48d5, type: 3}
-  buttonName: ButtonJohan
-  buttonNode: {fileID: 11400000, guid: c86aa6cc052e6da4da445e2dbef5d3eb, type: 2}
-  nextDialogNode: {fileID: 11400000, guid: 276b1aa723b4f374890bc161e5bb94ae, type: 2}
+  _bobina: 1
+  _refrigeracion: 0
+  _lore: 0
+  nextDialogNode: {fileID: 11400000, guid: 557c506adad83f74b95b94f4d617e6e7, type: 2}
