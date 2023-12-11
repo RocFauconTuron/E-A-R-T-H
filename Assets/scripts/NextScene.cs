@@ -4,11 +4,19 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class NextScene : MonoBehaviour
 {
+    public int time;
+    public string sceneName;
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player"))
         {
-            SceneManager.LoadScene("World1UI");
+            StartCoroutine(ChangeScene());
         }
+    }
+    IEnumerator ChangeScene()
+    {
+        yield return new WaitForSeconds(time);
+
+        SceneManager.LoadScene(sceneName);
     }
 }

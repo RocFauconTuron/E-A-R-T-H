@@ -15,4 +15,4 @@ MonoBehaviour:
   background: {fileID: 21300000, guid: 86901ba9cae4956448ad1e38ccc9c470, type: 3}
   buttonName: ButtonLeorio
   buttonNode: {fileID: 11400000, guid: e196429d7d179cf49aaee015b36eac6b, type: 2}
-  nextDialogNode: {fileID: 11400000, guid: 2c1b18519aa2c574c9baa352fe36d49f, type: 2}
+  nextDialogNode: {fileID: 11400000, guid: c216ec79744ac764c97c17151e02c40a, type: 2}
