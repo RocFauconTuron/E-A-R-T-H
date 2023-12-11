@@ -1029,6 +1029,185 @@
 
 
 
+    { "key": "A7-1", "value": "AURA"},
+    { "key": "A7-1TXT", "value": "Hemos llegado. El núcleo de la Tierra..." },
+
+    { "key": "A7-2", "value": "GRAVIX"},
+    { "key": "A7-2TXT", "value": "Eso parece... Ahora solo queda hacer el esfuerzo final." },
+
+    { "key": "A7-3", "value": "AURA"},
+    { "key": "A7-3TXT", "value": "Todo esto a nuestro alrededor es Nucleomita refinada." },
+
+    { "key": "A7-4", "value": "GRAVIX"},
+    { "key": "A7-4TXT", "value": "Así que esto es lo que hacen... Vienen de otro mundo a experimentar con el nuestro" },
+
+    { "key": "A7-5", "value": "AURA"},
+    { "key": "A7-5TXT", "value": "Lo hacen para salvar el suyo propio..." },
+
+    { "key": "A7-6.1", "value": "No te compadezcas AURA. No podemos permitirlo igualmente."},
+    { "key": "A7-6.2", "value": "Están en una situación difícil ellos también. Entiendo tus dudas."},
+
+    { "key": "A7-6.1.1", "value": "AURA"},
+    { "key": "A7-6.1.1TXT", "value": "Supongo que tienes razón." },
+
+    { "key": "A7-6.2.1", "value": "GRAVIX"},
+    { "key": "A7-6.2.1TXT", "value": "Pero no es el momento. El hecho es que nuestra gente esta sufriendo. Y detener eso sí lo tenemos claro, ¿Verdad?" },
+
+    { "key": "A7-6.1.2", "value": "GRAVIX"},
+    { "key": "A7-6.1.2TXT", "value": "Siempre tan bondadosa... Piensa en lo que han hecho sufrir a Johan, Amelia y a todos los demás. Tienen que pagar por ello. " },
+
+    { "key": "A7-6.2.2", "value": "AURA"},
+    { "key": "A7-6.2.2TXT", "value": "¡Verdad! Tienes razón GRAVIX, ellos hacen lo que sea necesario para salvar su mundo. ¡Nosotros también!" },
+
+    { "key": "A7-6.1.3", "value": "AURA"},
+    { "key": "A7-6.1.3TXT", "value": "Claro.  No hay otra alternativa." },
+
+    { "key": "A7-7", "value": "AURA"},
+    { "key": "A7-7TXT", "value": "De hecho, tengo una idea. ¿Son de otro mundo verdad? Y antes hemos visto portales." },
+
+    { "key": "A7-8", "value": "AURA"},
+    { "key": "A7-8TXT", "value": "Podríamos usar esa misma tecnología para enviarlos a su mundo. Aquí debería haber suficientes recursos para intentarlo." },
+
+    { "key": "A7-9.1", "value": "Si tu crees que somos capaces lo intentaremos."},
+    { "key": "A7-9.2", "value": "Es demasiado arriesgado. Ciñámonos al plan."},
+
+    { "key": "A7-9.1.1", "value": "AURA"},
+    { "key": "A7-9.1.1TXT", "value": "Claro que sí. Quien te crees que soy." },
+
+    { "key": "A7-9.2.1", "value": "AURA"},
+    { "key": "A7-9.2.1TXT", "value": "De acuerdo. Es lo más sensato." },
+
+    { "key": "A7-9.1.2", "value": "AURA"},
+    { "key": "A7-9.1.2TXT", "value": "Sigue mis instrucciones. Conéctate a eso de ahí." },
+
+    { "key": "A7-9.2.2", "value": "AURA"},
+    { "key": "A7-9.2.2TXT", "value": "Esa parece la consola principal de la máquina que controla el núcleo." },
+
+    { "key": "A7-9.1.3", "value": "GRAVIX"},
+    { "key": "A7-9.1.3TXT", "value": "Hecho." },
+
+    { "key": "A7-9.2.3", "value": "GRAVIX"},
+    { "key": "A7-9.2.3TXT", "value": "Me conectaré a esto..." },
+
+    { "key": "A7-9.1.4", "value": "AURA"},
+    { "key": "A7-9.1.4TXT", "value": "A la consola de ahí también. Y ya podrás ponerte las mejoras de la líder Amelia." },
+
+    { "key": "A7-9.2.4", "value": "GRAVIX"},
+    { "key": "A7-9.2.4TXT", "value": "Y ahora añadiré las mejoras como me dijo Amelia..." },
+
+    { "key": "A7-9.1.5", "value": "GRAVIX"},
+    { "key": "A7-9.1.5TXT", "value": "Ya esta todo." },
+
+    { "key": "A7-9.2.5", "value": "AURA"},
+    { "key": "A7-9.2.5TXT", "value": "Ve con cuidado." },
+
+    { "key": "A7-9.1.6", "value": "AURA"},
+    { "key": "A7-9.1.6TXT", "value": "Allá vamos. Niveles al máximo." },
+
+    { "key": "A7-9.2.6", "value": "GRAVIX"},
+    { "key": "A7-9.2.6TXT", "value": "Ya esta. Conectado." },
+
+    { "key": "A7-9.2.7", "value": "AURA"},
+    { "key": "A7-9.2.7TXT", "value": "¿Estas listo GRAVIX?" },
+
+    { "key": "A7-9.1.7", "value": "GRAVIX"},
+    { "key": "A7-9.1.7TXT", "value": "Concentración... ¡Lo notó! ¡Noto como mi influencia en el planeta! ¡Se mueve!" },
+
+    { "key": "A7-9.1.8", "value": "AURA"},
+    { "key": "A7-9.1.8TXT", "value": "Ten cuidado, te estas sobrecalentando." },
+
+    { "key": "A7-9.1.9", "value": "GRAVIX"},
+    { "key": "A7-9.1.9TXT", "value": "¡Lo estoy consiguiendo! ¡Los portales se llevan a los de la Fundación SEP!" },
+
+    { "key": "A7-9.1.10", "value": "AURA"},
+    { "key": "A7-9.1.10TXT", "value": "¡Estas llegando a niveles máximos!" },
+
+    { "key": "A7-9.1.11", "value": "GRAVIX"},
+    { "key": "A7-9.1.11TXT", "value": "Poco a poco..." },
+
+    { "key": "A7-9.1.12", "value": "AURA"},
+    { "key": "A7-9.1.12TXT", "value": "¡Tienes que parar GRAVIX! ¡NO ESTAS SOPORTANDO EL PROCESO!" },
+
+    { "key": "A7-9.1.13", "value": "GRAVIX"},
+    { "key": "A7-9.1.13TXT", "value": "¡SEGUIMOS!  No puedo ser brusco o podría causar aun peores problemas..." },
+
+    { "key": "A7-9.1.14", "value": "AURA"},
+    { "key": "A7-9.1.14TXT", "value": "¡Es culpa mía! ¡No tendría que haberte propuesto esta idea tan estúpida!" },
+
+    { "key": "A7-9.1.15", "value": "GRAVIX"},
+    { "key": "A7-9.1.15TXT", "value": "AURA... Es lo que debemos hacer... Sin tu propuesta la Fundación SEP podría haberlo vuelto a intentar en el futuro. Ahora, gracias a ti, ya no serán capaces." },
+
+    { "key": "A7-9.1.16", "value": "GRAVIX"},
+    { "key": "A7-9.1.16TXT", "value": "Ha sido un placer haberte conocido AURA. No podría haber pedido una mejor compañera." },
+
+    { "key": "A7-9.1.17", "value": "GRAVIX"},
+    { "key": "A7-9.1.17TXT", "value": "Siento arrastrarte a esto... Espero que puedas entenderlo..." },
+
+    { "key": "A7-9.1.18", "value": "AURA"},
+    { "key": "A7-9.1.18TXT", "value": "Te apoyaré hasta el final GRAVIX... Es lo que debo hacer... Gracias por todo..." },
+
+    { "key": "A7-9.2.8.1", "value": "Sí. Fui creado para esto. Este es mi proposito."},
+    { "key": "A7-9.2.8.2", "value": "Noto el poder, AURA. No estoy seguro de poder controlarlo."},
+
+    { "key": "A7-9.2.8.1.1", "value": "AURA"},
+    { "key": "A7-9.2.8.1.1TXT", "value": "Eres muy valiente GRAVIX. No todo el mundo aceptaría su destino de esta manera. " },
+
+    { "key": "A7-9.2.8.2.1", "value": "AURA"},
+    { "key": "A7-9.2.8.2.1TXT", "value": "Yo confío en ti. ¡Puedes hacerlo! Cuando hagamos esto. Todo cambiará hacia mejor. Seremos recordados como los salvadores." },
+
+    { "key": "A7-9.2.8.1.2", "value": "AURA"},
+    { "key": "A7-9.2.8.1.2TXT", "value": "Te mereces ser el salvador de esta gente." },
+
+    { "key": "A7-9.2.8.2.2", "value": "AURA"},
+    { "key": "A7-9.2.8.2.2TXT", "value": "Nadie más puede hacerlo. Yo estaré a tu lado." },
+
+    { "key": "A7-9.2.8.1.3", "value": "AURA"},
+    { "key": "A7-9.2.8.1.3TXT", "value": "Demostrémosle a la humanidad de que somos capaces. " },
+
+    { "key": "A7-9.2.8.2.3", "value": "GRAVIX"},
+    { "key": "A7-9.2.8.2.3TXT", "value": "Gracias... Además, no hay otra alternativa. Todos esperan esto de mi." },
+
+
+    { "key": "A7-9.2.9", "value": "GRAVIX"},
+    { "key": "A7-9.2.9TXT", "value": "Allá vamos. Niveles al máximo." },
+
+    { "key": "A7-9.2.10", "value": "GRAVIX"},
+    { "key": "A7-9.2.10TXT", "value": "Concentración... ¡Lo notó! ¡Noto como mi influencia en el planeta! ¡Se mueve!" },
+
+    { "key": "A7-9.2.11", "value": "AURA"},
+    { "key": "A7-9.2.11TXT", "value": "Ten cuidado, te estas sobrecalentando." },
+
+    { "key": "A7-9.2.12", "value": "GRAVIX"},
+    { "key": "A7-9.2.12TXT", "value": "¡Lo estoy consiguiendo!" },
+
+    { "key": "A7-9.2.13", "value": "AURA"},
+    { "key": "A7-9.2.13TXT", "value": "Sigues aumentando de temperatura..." },
+
+    { "key": "A7-9.2.14", "value": "GRAVIX"},
+    { "key": "A7-9.2.14TXT", "value": "Poco a poco..." },
+
+    { "key": "A7-9.2.15", "value": "AURA"},
+    { "key": "A7-9.2.15TXT", "value": "¡Estas llegando a niveles máximos!" },
+
+    { "key": "A7-9.2.16", "value": "GRAVIX"},
+    { "key": "A7-9.2.16TXT", "value": "¡SEGUIMOS!  No puedo ser brusco o podría causar aun peores problemas..." },
+
+    { "key": "A7-9.2.17", "value": "AURA"},
+    { "key": "A7-9.2.17TXT", "value": "¡Tienes que parar GRAVIX! ¡NO ESTAS SOPORTANDO EL PROCESO!" },
+
+    { "key": "A7-9.2.18", "value": "GRAVIX"},
+    { "key": "A7-9.2.18TXT", "value": "AURA... Es lo que debo hacer... Ya no hay vuelta atrás recuerdas..." },
+
+    { "key": "A7-9.2.19", "value": "GRAVIX"},
+    { "key": "A7-9.2.19TXT", "value": "Ha sido un placer haberte conocido AURA. No podría haber pedido una mejor compañera." },
+
+    { "key": "A7-9.2.20", "value": "GRAVIX"},
+    { "key": "A7-9.2.20TXT", "value": "Siento arrastrarte a esto... Espero que puedas entenderlo..." },
+
+    { "key": "A7-9.2.21", "value": "AURA"},
+    { "key": "A7-9.2.21TXT", "value": "Te apoyaré hasta el final GRAVIX... Es lo que debo hacer... Gracias por todo..." },
+
+
 
 
     { "key": "2", "value": "dialog 2" },

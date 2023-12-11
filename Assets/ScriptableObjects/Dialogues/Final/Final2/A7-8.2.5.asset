@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fb7ddef03c1b324887312227d59fc8c, type: 3}
+  m_Name: A7-8.2.5
+  m_EditorClassIdentifier: 
+  background: {fileID: 21300000, guid: 6864205404106d14c991f6815148cb48, type: 3}
+  keyName: A7-9.2.5
+  keyMessage: A7-9.2.5TXT
+  speakers:
+  - active: 1
+    speaker: {fileID: 21300000, guid: 24b1e002dc7692b42821f9ebd6440510, type: 3}
+  nextDialogNode: {fileID: 11400000, guid: 2f9a2967cb573aa4295315ec709ad803, type: 2}
