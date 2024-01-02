@@ -16,6 +16,12 @@ public class PlayerDie : MonoBehaviour
         Physics.gravity = new Vector3(0, -14, 0);
         transform.position = diePos;
         transform.rotation = Quaternion.identity;
-        GetComponent<GravityController>().Down();
+
+        GetComponent<Rigidbody>().velocity = Vector3.zero;
+
+        if(GetComponent<GravityController>() != null)
+        {
+            GetComponent<GravityController>().Down();
+        }
     }
 }

@@ -1462,7 +1462,7 @@ MonoBehaviour:
       speakers: AURA
       time: 3
     - sentences: Entendido...
-      speakers: Nyx
+      speakers: GRAVIX
       time: 3
 --- !u!65 &325062068
 BoxCollider:

@@ -9,13 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0fb7ddef03c1b324887312227d59fc8c, type: 3}
-  m_Name: LP1-1
+  m_Script: {fileID: 11500000, guid: 91f0a07098c40b24996188dabec8220e, type: 3}
+  m_Name: changeap3 2
   m_EditorClassIdentifier: 
   background: {fileID: 21300000, guid: 86901ba9cae4956448ad1e38ccc9c470, type: 3}
-  keyName: LP1-1
-  keyMessage: LP1-1TXT
-  speakers:
-  - active: 1
-    speaker: {fileID: 21300000, guid: 86495ba66cbae0d41a77486c52fac364, type: 3}
-  nextDialogNode: {fileID: 11400000, guid: c91be8c1d6013ad40ab600fa773b79ab, type: 2}
+  buttonName: ButtonAmelia
+  buttonNode: {fileID: 11400000, guid: 1603c6133ed1e9e4e9e36da2a780af6c, type: 2}
+  nextDialogNode: {fileID: 11400000, guid: d490205696667d941831be8f0e96bdd6, type: 2}

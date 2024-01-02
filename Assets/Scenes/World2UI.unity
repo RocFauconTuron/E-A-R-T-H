@@ -552,7 +552,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55c0351704f9cb3499fc57c139ccc966, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bobina: 1
+  bobina: 0
   refrigeracion: 0
   lore: 0
 --- !u!4 &1441477088
